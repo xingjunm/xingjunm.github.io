@@ -15,10 +15,11 @@ author: Xingjun Ma
 
 navbar-links:
   Home: "https://xingjunma.com"
+  Teaching: "teaching"
   Publications: "publications"
   Talks: "talks"
-  Research:
-    - Adversarial machine learning: "https://xingjunma.com"
+  # Research:
+  #   - Adversarial machine learning: "https://xingjunma.com"
     # - Learn markdown: "https://xingjunma.com"
 
 # --- Logo --- #
