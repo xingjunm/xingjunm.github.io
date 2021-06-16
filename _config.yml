@@ -116,7 +116,7 @@ footer-link-col: "#404040"
 # instead of colour
 
 navbar-img: "/assets/img/yellowbg.png"
-footer-img: "/assets/img/yellowbg2.png"
+footer-img: "/assets/img/yellowbg.png"
 #page-img: "/assets/img/bgimage.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
