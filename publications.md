@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle:
+subtitle: ""
 ---
 
 The complete list of publication can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
