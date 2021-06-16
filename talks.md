@@ -1,8 +1,7 @@
 ---
-layout: archive
-title: "2019 - 2020"
-permalink: /projects/
-author_profile: true
+layout: page
+title: Talks
+subtitle:
 ---
 
 ### 1. Adversarial Machine Learning
