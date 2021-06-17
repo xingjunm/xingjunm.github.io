@@ -21,13 +21,13 @@ subtitle:
 
 ### 2019
 
-* **[Dec. 2019, Jilin, China]** Invited talk at <a href="https://jlu-sai.github.io/" target="_blank">Schoolf of AI</a>, Jilin University: Deep Learning & Generative Adversarial Networks
+* **[Dec. 2019, Jilin, China]** Invited talk at <a href="https://jlu-sai.github.io/" target="_blank">School of AI</a>, Jilin University: Deep Learning & Generative Adversarial Networks
 
 * **[Nov. 2019, Melbourne, Australia]** Invited talk at <a href="https://www.ausnetservices.com.au/" target="_blank">AusNet</a>: Deep Learning & Generative Adversarial Networks
 
 * **[July 2019, Adelaide, Australia]** Invited tutorial at <a href="http://nugget.unisa.edu.au/AI2019/index.php#" target="_blank">Australasian Joint Conference on Artificial Intelligence (AI2019)</a>: <a href="https://github.com/xingjunm/An-Introduction-to-Adversarial-Machine-Learning" target="_blank">A tutorial on adversarial machine learning</a>
 
-* **[June 2019, Tokyo, Japan]** Invited talk at <a href="https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/" target="_blank">RIKEN</a>: On Adversarial Understanding, Detection and Defense
+* **[June 2019, Tokyo, Japan]** Invited talk at <a href="https://www.riken.jp/en/research/labs/aip/generic_tech/imperfect_inf_learn/" target="_blank">Imperfect Information Learning Team</a>, <a href="https://aip.riken.jp/" target="_blank">RIKEN Center for Advanced Intelligence Project</a>: On Adversarial Understanding, Detection and Defense
 
 * **[Mar. 2019, Melbourne, Australia]** Invited talk at <a href="https://www.swinburne.edu.au/" target="_blank">Swinburne University of Technology</a>: A Local Intrinsic Dimensionality (LID) Perspective of Adversarial Examples.
 
