@@ -14,10 +14,9 @@ author: Xingjun Ma
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://xingjunma.com"
-  Teaching: "teaching"
   Publications: "publications"
   Talks: "talks"
+  Teaching: "teaching"
   # Research:
   #   - Adversarial machine learning: "https://xingjunma.com"
     # - Learn markdown: "https://xingjunma.com"
