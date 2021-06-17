@@ -30,7 +30,7 @@ Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, <b>Xingjun Ma</b><br/>
 International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021.
 
 <a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness</b></a><br/>
-Linxi Jiang, <b>Xingjun Ma</b>, Zejia Weng, James Bailey and Yu-Gang Jiang<br/>
+Linxi Jiang, <b>Xingjun Ma</b>, Zejia Weng, James Bailey, Yu-Gang Jiang<br/>
 ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
  
 <a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"><b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b></a><br/>
@@ -45,23 +45,23 @@ International Conference on Software Engineering (<b>ICSE</b>), Virtual, 2021.
 
 <a href="https://arxiv.org/abs/2104.10377.pdf" target="_blank"><b>Dual Head Adversarial Training</b></a> 
 <a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]</a> <br/>
-Yujing Jiang, <b>Xingjun Ma</b>, Sarah Monazam Erfani and James Bailey<br/>
+Yujing Jiang, <b>Xingjun Ma</b>, Sarah Monazam Erfani, James Bailey<br/>
 International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 
 <a href="https://arxiv.org/abs/2101.00336.pdf" target="_blank"><b>Neural Architecture Search via Combinatorial Multi-Armed Bandit</b></a><br/>
-Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani and James Bailey<br/>
+Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
  
 <a href=""><b>Federated Learning with Extreme Label Skew: A Data Extension Approach</b></a><br/>
-Saheed Tijani, <b>Xingjun Ma</b>, Frank Jiang and Robin Doss<br/>
+Saheed Tijani, <b>Xingjun Ma</b>, Frank Jiang, Robin Doss<br/>
 International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
  
 <a href=""><b>Microwave Link Failures Prediction via LSTM-based Feature Fusion Network</b></a><br/>
-Zichan Ruan, Shuiqiao Yang, Lei Pan, <b>Xingjun Ma</b>, Wei Luo and Marthie Grobler<br/>
+Zichan Ruan, Shuiqiao Yang, Lei Pan, <b>Xingjun Ma</b>, Wei Luo, Marthie Grobler<br/>
 International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 
 <a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
-Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, and Hanan Samet<br/>
+Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
 International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021.
 
 <a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
@@ -73,11 +73,11 @@ Bridget Copson, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Yun Zhou, Jean-Marc Ge
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
 <a href="https://arxiv.org/abs/2101.06898.pdf" target="_blank"><b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b></a><br/>
-Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li and Yu-Gang Jiang<br/>
+Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, Yu-Gang Jiang<br/>
 arXiv preprint.
 
 <a href="https://arxiv.org/abs/2101.06704.pdf" target="_blank"><b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b></a>a><br/>
-Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey and Xingjun Ma<br/>
+Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey, Xingjun Ma<br/>
 arXiv preprint.
 
 <a href="https://arxiv.org/abs/2102.08081.pdf" target="_blank"><b>A Lazy Approach for Efficient Index Learning</b> </a><br/>
@@ -93,12 +93,12 @@ International Conference on Machine Learning (<b>ICML</b>), Virtual, 2020.
  
 <a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank"><b>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</b></a>
 <a href="https://github.com/YisenWang/MART" target="_blank"> [Code] </a><br/>
-Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, <b>Xingjun Ma</b> and Quanquan Gu <br/>
+Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, <b>Xingjun Ma</b>, Quanquan Gu <br/>
 International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2020.
 
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank"><b>Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets</b></a>
 <a href="https://github.com/csdongxian/skip-connections-matter" target="_blank"> [Code] </a><br/>
-Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey and <b>Xingjun Ma</b><br/>
+Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey, <b>Xingjun Ma</b><br/>
 International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2020. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
 
 <a href="https://arxiv.org/abs/2003.03030" target="_blank"><b>Clean-Label Backdoor Attacks on Video Recognition Models</b></a>
@@ -200,7 +200,7 @@ Yisen Wang, Weiyang Liu, <b>Xingjun Ma</b>, James Bailey,  Hongyuan  Zha, Le Son
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Salt Lake City, Utah, USA, 2018. (<span style="color:red;font-weight:bold">Spotlight, top 6%</span>)
  
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/AIED2018.pdf" target="_blank"><b>Providing Automated Real-Time Technical Feedback for Virtual Reality Based Surgical Training: Is the Simpler the Better?</b></a><br/>
-Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
+Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, Robert Briggs, James Bailey, Gregor Kennedy, Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (<b>AIED</b>), London, UK, 2018
  
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf" target="_blank"><b>Development and Validation of a Virtual Reality Tutor to Teach Clinically Oriented Surgical Anatomy of the Ear</b></a><br/>
@@ -211,23 +211,23 @@ International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), 2018
 ### 2017
 
 <a href="https://arxiv.org/pdf/1703.01460.pdf" target="_blank"><b>Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training</b></a><br/>
-<b>Xingjun Ma</b>, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary and James Bailey.<br/>
+<b>Xingjun Ma</b>, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary, James Bailey.<br/>
 International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Melbourne, Australia, 2017. (<span style="color:red;font-weight:bold">Oral</span>)
 
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/AAAI_17_CR.pdf" target="_blank"><b>Unbiased Multivariate Correlation Analysis</b></a><br/>
-Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, <b>Xingjun Ma</b> and Shu-Tao Xia<br/> 
+Yisen Wang, Simone Romano, Nguyen Xuan Vinh, James Bailey, <b>Xingjun Ma</b>, Shu-Tao Xia<br/> 
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>), San Francisco, USA, 2017. (<span style="color:red;font-weight:bold">Oral</span>)
  
 <a href="https://arxiv.org/abs/1706.10036" target="_blank"><b>Providing Effective Real-time Feedback in Simulation-based Surgical Training</b></a><br/>
-<b>Xingjun Ma</b>, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary and James Bailey<br/> 
+<b>Xingjun Ma</b>, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary, James Bailey<br/> 
 International Conference on Medical Image Computing and Computer Assisted Intervention (<b>MICCAI</b>), Quebec City, Canada, 2017.
  
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-2.pdf" target="_blank"><b>Simulation for Training Cochlear Implant Electrode Insertion</b></a><br/>
-<b>Xingjun Ma</b>, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
+<b>Xingjun Ma</b>, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy, Stephen O'Leary<br/>
 International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
  
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf" target="_blank"><b>Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery</b></a><br/>
-Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, <b>Xingjun Ma</b>, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
+Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, <b>Xingjun Ma</b>, Robert Briggs, James Bailey, Gregor Kennedy, Stephen O'Leary<br/>
 International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
 
 <!--
@@ -240,6 +240,6 @@ arXiv preprint
 
 <b>Finding Influentials in Twitter: A Temporal Influence Ranking Model</b> 
 <a href="https://arxiv.org/pdf/1703.01468.pdf" target="_blank"> [Paper] </a><br/>
-<b>Xingjun Ma</b>, Chunping Li, James Bailey and Sudanthi Wijewickrema<br/>
+<b>Xingjun Ma</b>, Chunping Li, James Bailey, Sudanthi Wijewickrema<br/>
 Australasian Data Mining (<b>AusDM</b>), Canberra, Australia, 2016
 
