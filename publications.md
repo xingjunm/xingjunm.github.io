@@ -76,7 +76,7 @@ European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, Yu-Gang Jiang<br/>
 arXiv preprint.
 
-<a href="https://arxiv.org/abs/2101.06704.pdf" target="_blank"><b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b></a>a><br/>
+<a href="https://arxiv.org/abs/2101.06704.pdf" target="_blank"><b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b></a><br/>
 Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey, Xingjun Ma<br/>
 arXiv preprint.
 
@@ -111,7 +111,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Vi
 Ranjie Duan, <b>Xingjun Ma</b>, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Virtual, 2020.
 
-<a href="https://arxiv.org/abs/2007.02343" target="_blank"><b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.</b></a>
+<a href="https://arxiv.org/abs/2007.02343" target="_blank"><b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks</b></a>
 <a href="https://github.com/DreamtaleCore/Refool" target="_blank"> [Code] </a>
 <br/>
 Yunfei Liu, <b>Xingjun Ma</b>, James Bailey, Feng Lu<br/>
@@ -140,7 +140,7 @@ IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>). (accepted in
 Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, <b>Xingjun Ma</b>, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
 IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>). (accepted in 2020)
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"><b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery.</b></a> <br/>
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"><b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery</b></a> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (<b>AIED<b>), Ifrane, Morocco, 2020.
 
