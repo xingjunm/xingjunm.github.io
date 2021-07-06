@@ -32,6 +32,14 @@ International Conference on Learning Representations (<b>ICLR</b>), Virtual, 202
 <a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness</b></a><br/>
 Linxi Jiang, <b>Xingjun Ma</b>, Zejia Weng, James Bailey, Yu-Gang Jiang<br/>
 ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
+
+<a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
+Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
+International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up Award</span>)
+
+<a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
+R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
+IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>) 2021.
  
 <a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"><b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b></a><br/>
 <b>Xingjun Ma</b><sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
@@ -60,14 +68,7 @@ International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 Zichan Ruan, Shuiqiao Yang, Lei Pan, <b>Xingjun Ma</b>, Wei Luo, Marthie Grobler<br/>
 International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 
-<a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
-Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
-International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021.
 
-<a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
-R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
-IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>) 2021.
- 
 <a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"><b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b></a><br/>
 Bridget Copson, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
