@@ -35,7 +35,7 @@ ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
 
 <a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
 Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
-International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up Award</span>)
+International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up</span>)
 
 <a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
 R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
