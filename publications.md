@@ -15,7 +15,7 @@ International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Virtua
 <a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"><b>Unlearnable Examples: Making Personal Data Unexploitable</b> </a>
 <a href="https://github.com/HanxunH/Unlearnable-Examples" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/Unlearnable-Examples/" target="_blank"> [Webpage] </a><br/>
 Hanxun Huang, <b>Xingjun Ma</b>, Sarah Monazam Erfani, James Bailey, Yisen Wang<br/>
-International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021.(<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)<br/>
+International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)<br/>
 Press: <a href="https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview" target="_blank">MIT Technology Review</a>, <a href="https://pursuit.unimelb.edu.au/articles/blocking-ai-to-keep-your-personal-data-your-own" target="_blank">PURSUIT</a>
 
 <a href="https://openreview.net/forum?id=zQTezqCCtNx" target="_blank"><b>Improving Adversarial Robustness via Channel-wise Activation Suppressing</b></a>
