@@ -72,7 +72,8 @@ IEEE International Conference on Trust, Security and Privacy in Computing and Co
 Bridget Copson, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
-<a href="https://arxiv.org/abs/2101.06898.pdf" target="_blank"><b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b></a><br/>
+<a href="https://arxiv.org/abs/2101.06898.pdf" target="_blank"><b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b></a>
+<a href="https://github.com/ShihaoZhaoZSH/what-do-deep-nets-learn" target="_blank"> [Code] </a><br/>
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, Yu-Gang Jiang<br/>
 arXiv preprint.
 
@@ -126,7 +127,7 @@ European Conference on Computer Vision (<b>ECCV<b>), Virtual, 2020. (<span style
 <a href="https://arxiv.org/abs/2101.01456" target="_blank"><b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection</b></a>
 <a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
 Bojia Zi, Jingjing Chen, Minghao Chang, <b>Xingjun Ma</b>, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (<b>ACMMM<b>), Virtual, 2020.
+ACM International Conference on Multimedia (<b>ACM MM<b>), Virtual, 2020.
 
 <a href="https://arxiv.org/abs/2007.09370" target="_blank"><b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning</b></a><br/>
 Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, <b>Xingjun Ma</b><br/>
@@ -163,7 +164,7 @@ International Conference on Computer Vision (<b>ICCV<b>), Seoul, Korea, 2019.
 <a href="https://arxiv.org/abs/1904.05181" target="_blank"><b>Black-box Adversarial Attacks on Video Recognition Models</b></a>
 <a href="https://github.com/Jack-lx-jiang/VBAD" target="_blank"> [Code] </a><br/>
 Linxi Jiang<sup>*</sup>, <b>Xingjun Ma</b><sup>*</sup>, Shaoxiang Chen, James Bailey, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (<b>ACMMM<b>), Nice, France, 2019.
+ACM International Conference on Multimedia (<b>ACM MM<b>), Nice, France, 2019.
 
 <a href="http://arxiv.org/abs/1908.00211" target="_blank"><b>Generative Image Inpainting with Submanifold Alignment</b></a><br/>
 Ang Li, Jianzhong Qi, Rui Zhang, <b>Xingjun Ma</b>, Ramamohanarao Kotagiri<br/>
