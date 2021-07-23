@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2021
 
+<a href="" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better </b></a><br/>
+Bojia Zi<sup>*</sup>, Shihao Zhao<sup>*</sup>, <b>Xingjun Ma</b>, Yu-Gang Jiang<br/>
+International Conference on Computer Vision (<b>ICCV</b>), Virtual, 2021.
+
 <a href="https://arxiv.org/abs/2106.01532" target="_blank"><b>Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting </b></a><br/>
 Ang Li, Qiuhong Ke, <b>Xingjun Ma</b>, Haiqin Weng, Zhiyuan Zong, Feng Xue, Rui Zhang<br/>
 International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Virtual/Montreal, 2021.
