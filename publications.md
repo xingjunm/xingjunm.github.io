@@ -12,9 +12,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 James Bailey, Michael Houle, <b>Xingjun Ma</b><br/>
 International Conference on Similarity Search and Applications (<b>SISAP</b>), Dortmund, Germany, 2021.
 
-<a href="" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better </b></a><br/>
+<a href="" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better </b></a></a>
+<a href="https://github.com/zibojia/RSLAD" target="_blank"> [Code] </a><br/>
 Bojia Zi<sup>*</sup>, Shihao Zhao<sup>*</sup>, <b>Xingjun Ma</b>, Yu-Gang Jiang<br/>
-International Conference on Computer Vision (<b>ICCV</b>), Virtual, 2021, Forthcoming.
+International Conference on Computer Vision (<b>ICCV</b>), Virtual, 2021.
 
 <a href="https://arxiv.org/abs/2106.01532" target="_blank"><b>Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting </b></a><br/>
 Ang Li, Qiuhong Ke, <b>Xingjun Ma</b>, Haiqin Weng, Zhiyuan Zong, Feng Xue, Rui Zhang<br/>
