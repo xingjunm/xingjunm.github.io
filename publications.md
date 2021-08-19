@@ -8,11 +8,11 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2021
 
-<a href="" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a><br/>
+<a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a><br/>
 James Bailey, Michael Houle, <b>Xingjun Ma</b><br/>
 International Conference on Similarity Search and Applications (<b>SISAP</b>), Dortmund, Germany, 2021.
 
-<a href="" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better </b></a>
+<a href="" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better</b></a>
 <a href="https://github.com/zibojia/RSLAD" target="_blank"> [Code] </a><br/>
 Bojia Zi<sup>*</sup>, Shihao Zhao<sup>*</sup>, <b>Xingjun Ma</b>, Yu-Gang Jiang<br/>
 International Conference on Computer Vision (<b>ICCV</b>), Virtual, 2021.
