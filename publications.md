@@ -75,7 +75,11 @@ International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 
 <a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
 R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
-IEEE International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>) 2021.
+International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>) 2021.
+
+<a href="https://arxiv.org/abs/2107.07677" target="_blank"><b>ECG-Adv-GAN: Detecting ECG AdversarialExamples with Conditional Generative Adversarial Networks</b></a> <br/>
+Khondker Fariha Hossain, Sharif Amit Kamran, Alireza Tavakkoli, Lei Pan, <b>Xingjun Ma</b>, Sutharshan Rajasegarar, Chandan Karmaker<br/>
+International Conference on Machine Learning and Applications (<b>ICMLA</b>) 2021.
 
 <a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"><b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b></a><br/>
 Bridget Copson, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
