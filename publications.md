@@ -77,7 +77,7 @@ International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
 International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>) 2021.
 
-<a href="https://arxiv.org/abs/2107.07677" target="_blank"><b>ECG-Adv-GAN: Detecting ECG AdversarialExamples with Conditional Generative Adversarial Networks</b></a> <br/>
+<a href="https://arxiv.org/abs/2107.07677" target="_blank"><b>ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative Adversarial Networks</b></a> <br/>
 Khondker Fariha Hossain, Sharif Amit Kamran, Alireza Tavakkoli, Lei Pan, <b>Xingjun Ma</b>, Sutharshan Rajasegarar, Chandan Karmaker<br/>
 International Conference on Machine Learning and Applications (<b>ICMLA</b>) 2021.
 
