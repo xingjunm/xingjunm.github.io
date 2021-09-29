@@ -24,7 +24,6 @@ Jiabo He, Sarah Monazam Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-
 Xinyi Xu, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenglin Miao, Chuan-Sheng Foo, Kian Hsiang Low<br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
-
 <a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a>
 <a href="https://www.youtube.com/watch?v=4pG0_wRfd5g&list=PLU6sx10A4i3YMTkRclcn8HEXPYWZrLJdo" target="_blank"> [Video] </a><br/>
 James Bailey, Michael Houle, <b>Xingjun Ma</b><br/>
