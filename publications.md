@@ -13,11 +13,11 @@ Yige Li, Xixiang Lyu, <b>Xingjun Ma</b>, Nodens Koren, Lingjuan Lyu, Bo Li<br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <b>Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks</b><br/>
-Hanxun Huang, Yisen Wang, Sarah Monazam Erfani, Quanquan Gu, James Bailey, <b>Xingjun Ma</b><br/>
+Hanxun Huang, Yisen Wang, Sarah M. Erfani, Quanquan Gu, James Bailey, <b>Xingjun Ma</b><br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <b>α-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression</b><br/>
-Jiabo He, Sarah Monazam Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-Sheng Hua<br/>
+Jiabo He, Sarah M. Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-Sheng Hua<br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <b>Gradient Driven Rewards to Guarantee Fairness in Collaborative Machine Learning</b><br/>
@@ -40,7 +40,7 @@ International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Virtua
 
 <a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"><b>Unlearnable Examples: Making Personal Data Unexploitable</b> </a>
 <a href="https://github.com/HanxunH/Unlearnable-Examples" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/Unlearnable-Examples/" target="_blank"> [Webpage] </a><br/>
-Hanxun Huang, <b>Xingjun Ma</b>, Sarah Monazam Erfani, James Bailey, Yisen Wang<br/>
+Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey, Yisen Wang<br/>
 International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)<br/>
 Press: <a href="https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview" target="_blank">MIT Technology Review</a>, <a href="https://pursuit.unimelb.edu.au/articles/blocking-ai-to-keep-your-personal-data-your-own" target="_blank">PURSUIT</a>
 
@@ -75,7 +75,7 @@ International Conference on Scientific and Statistical Database Management (<b>S
 
 <a href="https://arxiv.org/abs/2104.10377.pdf" target="_blank"><b>Dual Head Adversarial Training</b></a> 
 <a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]</a> <br/>
-Yujing Jiang, <b>Xingjun Ma</b>, Sarah Monazam Erfani, James Bailey<br/>
+Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 
 <a href="https://arxiv.org/abs/2101.00336.pdf" target="_blank"><b>Neural Architecture Search via Combinatorial Multi-Armed Bandit</b></a><br/>
@@ -119,7 +119,7 @@ arXiv preprint.
 
 <a href="https://arxiv.org/abs/2006.13554" target="_blank"><b>Normalized Loss Functions for Deep Learning with Noisy Labels</b></a>
 <a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>
-<b>Xingjun Ma</b><sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah Erfani, James Bailey<br/>
+<b>Xingjun Ma</b><sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah M. Erfani, James Bailey<br/>
 International Conference on Machine Learning (<b>ICML</b>), Virtual, 2020.
  
 <a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank"><b>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</b></a>
@@ -206,7 +206,7 @@ Knowledge and Information Systems (<b>KAIS<b>). (accepted in 2019)
 
 <!-- <b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</b> 
 <a href="https://arxiv.org/abs/1905.00643"> [Paper] </a><br/>
-Sukarna Barua, <b>Xingjun Ma</b>, Sarah Monazam Erfani, Michael E. Houle, James Bailey<br/>
+Sukarna Barua, <b>Xingjun Ma</b>, Sarah M. Erfani, Michael E. Houle, James Bailey<br/>
 Preprint. -->
 
 <!--
@@ -223,7 +223,7 @@ International Conference on Learning Representations (<b>ICLR</b>), Vancouver, B
 
 <a href="https://arxiv.org/pdf/1806.02612.pdf" target="_blank"><b>Dimensionality-Driven Learning with Noisy Labels</b></a>
 <a href="https://github.com/xingjunm/dimensionality-driven-learning" target="_blank"> [Code] </a><br/>
-<b>Xingjun Ma</b><sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah Monazam Erfani, Shu-Tao Xia, Sudanthi Wijewickrema, James Bailey<br/>
+<b>Xingjun Ma</b><sup>*</sup>, Yisen Wang<sup>*</sup>, Michael E. Houle, Shuo Zhou, Sarah M. Erfani, Shu-Tao Xia, Sudanthi Wijewickrema, James Bailey<br/>
 International Conference on Machine Learning (<b>ICML</b>), Stockholm, Sweden, 2018. (<span style="color:red;font-weight:bold">Long talk, top 4%</span>)
  
 <a href="https://arxiv.org/pdf/1804.00092.pdf" target="_blank"><b>Iterative Learning with Open-set Noisy Labels</b></a><br/>
