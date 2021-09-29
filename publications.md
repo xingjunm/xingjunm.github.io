@@ -21,7 +21,7 @@ Jiabo He, Sarah M. Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-Sheng
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <b>Gradient Driven Rewards to Guarantee Fairness in Collaborative Machine Learning</b><br/>
-Xinyi Xu, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenglin Miao, Chuan-Sheng Foo, Kian Hsiang Low<br/>
+Xinyi Xu, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenglin Miao, Chuan-Sheng Foo, Kian H. Low<br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a>
