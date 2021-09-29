@@ -8,7 +8,25 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2021
 
-<a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a><br/>
+<b>Anti-Backdoor Learning: Training Clean Models on Poisoned Data</b><br/>
+Yige Li, Xixiang Lyu, <b>Xingjun Ma</b>, Nodens Koren, Lingjuan Lyu, Bo Li<br/>
+35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+
+<b>Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks</b><br/>
+Hanxun Huang, Yisen Wang, Sarah Monazam Erfani, Quanquan Gu, James Bailey, <b>Xingjun Ma</b><br/>
+35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+
+<b>α-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression</b><br/>
+Jiabo He, Sarah Monazam Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-Sheng Hua<br/>
+35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+
+<b>Gradient Driven Rewards to Guarantee Fairness in Collaborative Machine Learning</b><br/>
+Xinyi Xu, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenglin Miao, Chuan-Sheng Foo, Kian Hsiang Low<br/>
+35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+
+
+<a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a>
+<a href="https://www.youtube.com/watch?v=4pG0_wRfd5g&list=PLU6sx10A4i3YMTkRclcn8HEXPYWZrLJdo" target="_blank"> [Video] </a><br/>
 James Bailey, Michael Houle, <b>Xingjun Ma</b><br/>
 International Conference on Similarity Search and Applications (<b>SISAP</b>), Dortmund, Germany, 2021.
 
