@@ -12,7 +12,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 Yige Li, Xixiang Lyu, <b>Xingjun Ma</b>, Nodens Koren, Lingjuan Lyu, Bo Li<br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
-<b>Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks</b><br/>
+<a href="https://arxiv.org/abs/2110.03825" target="_blank"><b>Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks</b></a><a href="https://github.com/HanxunH/RobustWRN" target="_blank"> [Code] </a><br/>
 Hanxun Huang, Yisen Wang, Sarah M. Erfani, Quanquan Gu, James Bailey, <b>Xingjun Ma</b><br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
