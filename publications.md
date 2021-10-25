@@ -8,7 +8,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2021
 
-<a href="https://arxiv.org/abs/2110.11571" target="_blank"><b>Anti-Backdoor Learning: Training Clean Models on Poisoned Data</b></a><a href="" target="_blank"> [Code] </a><br/>
+<a href="https://arxiv.org/abs/2110.11571" target="_blank"><b>Anti-Backdoor Learning: Training Clean Models on Poisoned Data</b></a><a href="https://github.com/bboylyg/ABL" target="_blank"> [Code] </a><br/>
 Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, <b>Xingjun Ma</b><br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
