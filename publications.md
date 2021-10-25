@@ -27,7 +27,7 @@ Xinyi Xu, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenglin Miao, Chuan-Sheng Foo, Kian 
 <a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a>
 <a href="https://www.youtube.com/watch?v=4pG0_wRfd5g&list=PLU6sx10A4i3YMTkRclcn8HEXPYWZrLJdo" target="_blank"> [Video] </a><br/>
 James Bailey, Michael Houle, <b>Xingjun Ma</b><br/>
-International Conference on Similarity Search and Applications (<b>SISAP</b>), Dortmund, Germany, 2021.
+International Conference on Similarity Search and Applications (<b>SISAP</b>), Dortmund, Germany, 2021. (<span style="color:red;font-weight:bold"><a href="https://www.sisap.org/2021/awards.html" target="_blank">Best Paper Runner-up Award</a></span>)
 
 <a href="https://arxiv.org/abs/2108.07969" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better</b></a>
 <a href="https://github.com/zibojia/RSLAD" target="_blank"> [Code] </a><br/>
@@ -71,7 +71,7 @@ International Conference on Software Engineering (<b>ICSE</b>), Virtual, 2021.
 
 <a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
 Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
-International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up</span>)
+International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021. (<span style="color:red;font-weight:bold"><a href="https://ssdbm.org/2021/awards" target="_blank">Best Paper Runner-up Award</a></span>)
 
 <a href="https://arxiv.org/abs/2104.10377.pdf" target="_blank"><b>Dual Head Adversarial Training</b></a> 
 <a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]</a> <br/>
