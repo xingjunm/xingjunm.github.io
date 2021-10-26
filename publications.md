@@ -16,7 +16,7 @@ Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, <b>Xingjun Ma</b><br/>
 Hanxun Huang, Yisen Wang, Sarah M. Erfani, Quanquan Gu, James Bailey, <b>Xingjun Ma</b><br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
-<a href="https://openreview.net/pdf?id=rbdKZJxDWWx" target="_blank"><b>Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression</b></a><a href="" target="_blank"> [Code] </a><a href="https://github.com/Jacobi93/Alpha-IoU" target="_blank"> [Code] </a><br/>
+<a href="https://openreview.net/pdf?id=rbdKZJxDWWx" target="_blank"><b>Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression</b></a><a href="https://github.com/Jacobi93/Alpha-IoU" target="_blank"> [Code] </a><br/>
 Jiabo He, Sarah M. Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-Sheng Hua<br/>
 35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
