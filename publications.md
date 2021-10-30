@@ -8,21 +8,26 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2021
 
+<a href="http://arxiv.org/abs/2110.15082" target="_blank"><b>SpineOne: A One-Stage Detection Framework for Degenerative Discs and Vertebrae</b></a><a href="" target="_blank"> [Code] </a><br/>
+Jiabo He, Wei Liu, Yu Wang, <b>Xingjun Ma</b>, Xian-Sheng Hua <br/>
+IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2021.
+
+
 <a href="https://arxiv.org/abs/2110.11571" target="_blank"><b>Anti-Backdoor Learning: Training Clean Models on Poisoned Data</b></a><a href="https://github.com/bboylyg/ABL" target="_blank"> [Code] </a><br/>
 Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, <b>Xingjun Ma</b><br/>
-35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="https://arxiv.org/abs/2110.03825" target="_blank"><b>Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks</b></a><a href="https://github.com/HanxunH/RobustWRN" target="_blank"> [Code] </a><br/>
 Hanxun Huang, Yisen Wang, Sarah M. Erfani, Quanquan Gu, James Bailey, <b>Xingjun Ma</b><br/>
-35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="http://arxiv.org/abs/2110.13675" target="_blank"><b>Alpha-IoU: A Family of Power Intersection over Union Losses for Bounding Box Regression</b></a><a href="https://github.com/Jacobi93/Alpha-IoU" target="_blank"> [Code] </a><br/>
 Jiabo He, Sarah M. Erfani, <b>Xingjun Ma</b>, James Bailey, Ying Chi, Xian-Sheng Hua<br/>
-35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="" target="_blank"><b>Gradient Driven Rewards to Guarantee Fairness in Collaborative Machine Learning</b></a><a href="" target="_blank"> [Code] </a><br/>
 Xinyi Xu, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenglin Miao, Chuan-Sheng Foo, Kian H. Low<br/>
-35th Conference on Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a>
 <a href="https://www.youtube.com/watch?v=4pG0_wRfd5g&list=PLU6sx10A4i3YMTkRclcn8HEXPYWZrLJdo" target="_blank"> [Video] </a><br/>
@@ -92,11 +97,11 @@ International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
 
 <a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
 R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
-International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>) 2021.
+International Conference on Trust, Security and Privacy in Computing and Communications (<b>TrustCom</b>), 2021.
 
 <a href="https://arxiv.org/abs/2107.07677" target="_blank"><b>ECG-Adv-GAN: Detecting ECG Adversarial Examples with Conditional Generative Adversarial Networks</b></a> <br/>
 Khondker Fariha Hossain, Sharif Amit Kamran, Alireza Tavakkoli, Lei Pan, <b>Xingjun Ma</b>, Sutharshan Rajasegarar, Chandan Karmaker<br/>
-International Conference on Machine Learning and Applications (<b>ICMLA</b>) 2021.
+International Conference on Machine Learning and Applications (<b>ICMLA</b>), 2021.
 
 <a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"><b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b></a><br/>
 Bridget Copson, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
@@ -236,7 +241,7 @@ International Conference on Artificial Intelligence in Education (<b>AIED</b>), 
  
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf" target="_blank"><b>Development and Validation of a Virtual Reality Tutor to Teach Clinically Oriented Surgical Anatomy of the Ear</b></a><br/>
 Sudanthi Wijewickrema, Bridget Copson, <b>Xingjun Ma</b>, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/> 
-International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), 2018
+IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), 2018
 
 
 ### 2017
@@ -255,11 +260,11 @@ International Conference on Medical Image Computing and Computer Assisted Interv
  
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-2.pdf" target="_blank"><b>Simulation for Training Cochlear Implant Electrode Insertion</b></a><br/>
 <b>Xingjun Ma</b>, Sudanthi Wijewickremay, Yun Zhou, Bridget Copson, James Bailey, Gregor Kennedy, Stephen O'Leary<br/>
-International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
+IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
  
 <a href="http://people.eng.unimelb.edu.au/baileyj/papers/cbms-2017-1.pdf" target="_blank"><b>Design and Evaluation of a Virtual Reality Simulation Module for Training Advanced Temporal Bone Surgery</b></a><br/>
 Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, <b>Xingjun Ma</b>, Robert Briggs, James Bailey, Gregor Kennedy, Stephen O'Leary<br/>
-International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
+IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
 
 <!--
 <a href="https://arxiv.org/pdf/1705.04683.pdf">Feedback Techniques in Computer-Based Simulation Training: A Survey</a><br/>
@@ -272,5 +277,5 @@ arXiv preprint
 <b>Finding Influentials in Twitter: A Temporal Influence Ranking Model</b> 
 <a href="https://arxiv.org/pdf/1703.01468.pdf" target="_blank"> [Paper] </a><br/>
 <b>Xingjun Ma</b>, Chunping Li, James Bailey, Sudanthi Wijewickrema<br/>
-Australasian Data Mining (<b>AusDM</b>), Canberra, Australia, 2016
+The Australasian Data Mining Conference (<b>AusDM</b>), Canberra, Australia, 2016
 
