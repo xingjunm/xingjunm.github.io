@@ -60,8 +60,8 @@ International Conference on Learning Representations (<b>ICLR</b>), Virtual, 202
 Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, <b>Xingjun Ma</b><br/>
 International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021.
 
-<a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A New Cause of Overestimated Adversarial Robustness</b></a><br/>
-Linxi Jiang, <b>Xingjun Ma</b>, Zejia Weng, James Bailey, Yu-Gang Jiang<br/>
+<a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A Subtle Cause of Overestimated Adversarial Robustness</b></a><br/>
+<b>Xingjun Ma</b><sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/>
 ICLR Workshop on Security and Safety in Machine Learning Systems, Virtual, 2021.
  
 <a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"><b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b></a><br/>
