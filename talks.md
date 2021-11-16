@@ -10,7 +10,7 @@ subtitle:
 
 * **[June 2021, Virtual]** I gave a talk "Unlearnable Examples: Making Personal Data Unexploitable" at <a href="https://www.x-mol.com/university/faculty/215148" target="_blank">Xixiang Lv's group</a>, School of network and information security, Xidian University.
 
-* **[May 2021, Virtual]** I gave a talk "Privacy and Security in Federated Learning" <a href="https://yisenwang.github.io/" target="_blank">Yisen Wang's group</a>, Department of Machine Intelligence, EECS, Peking University.
+* **[May 2021, Virtual]** Guest lecture "Privacy and Security in Federated Learning" <a href="https://yisenwang.github.io/" target="_blank">Yisen Wang's group</a>, Department of Machine Intelligence, EECS, Peking University.
 
 * **[May 2021, Virtual]** I gave a talk "Adversarial, Backdoor, and Beyond" at <a href="https://wang-jingyi.github.io/" target="_blank">Jingyi Wang's group</a>, College of Control Science and Engineering, Zhejiang University.
 
