@@ -54,10 +54,6 @@ International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021.
 James Bailey, Michael Houle, <b>Xingjun Ma</b><br/>
 International Conference on Similarity Search and Applications (<b>SISAP</b>), Dortmund, Germany, 2021. (<span style="color:red;font-weight:bold">Best Paper Award</span>)
 
-<a href="http://arxiv.org/abs/2110.15082" target="_blank"><b>SpineOne: A One-Stage Detection Framework for Degenerative Discs and Vertebrae</b></a><a href="" target="_blank"> </a><br/>
-Jiabo He, Wei Liu, Yu Wang, <b>Xingjun Ma</b>, Xian-Sheng Hua <br/>
-IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2021.
-
 <a href="https://arxiv.org/abs/2102.05913.pdf" target="_blank"><b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b></a>
 <a href="https://github.com/SmallkeyChen/RobOT" target="_blank"> [Tookit] </a><br/>
 Jingyi Wang, Jialuo Chen, Youcheng Sun, <b>Xingjun Ma</b>, Dongxia Wang, Jun Sun, Peng Cheng<br/>
@@ -66,6 +62,10 @@ International Conference on Software Engineering (<b>ICSE</b>), 2021.
 <a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
 Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
 International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up Award</span>)
+
+<a href="http://arxiv.org/abs/2110.15082" target="_blank"><b>SpineOne: A One-Stage Detection Framework for Degenerative Discs and Vertebrae</b></a><a href="" target="_blank"> </a><br/>
+Jiabo He, Wei Liu, Yu Wang, <b>Xingjun Ma</b>, Xian-Sheng Hua <br/>
+IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2021.
 
 <a href="https://arxiv.org/abs/2104.10377.pdf" target="_blank"><b>Dual Head Adversarial Training</b></a> 
 <a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]</a> <br/>
@@ -95,11 +95,6 @@ International Conference on Machine Learning and Applications (<b>ICMLA</b>), 20
 <a href="" target="_blank"><b>Exploring the Vulnerability of Natural Language Processing Models via Universal Adversarial Texts</b></a><a href="" target="_blank"> </a><br/>
 Xinzhe Li, Ming Liu, <b>Xingjun Ma</b>, Longxiang Gao <br/>
 Australasian Language Technology Association Workshop (<b>ALTA</b>), 2021.
-
-<a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"><b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b></a><br/>
-<b>Xingjun Ma</b><sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
-Pattern Recognition (<b>PR</b>), 110, 2021, 107332.<br/>
-Press: <a href="https://www.rsipvision.com/ComputerVisionNews-2020October/4/" target="_blank"> Computer Vision News</a>
 
 <a href="https://link.springer.com/article/10.1007/s00405-021-06633-8" target="_blank"><b>Surgical approach to the facial recess influences the acceptable trajectory of cochlear implantation electrodes</b></a><br/>
 Bridget Copson, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
@@ -139,6 +134,11 @@ International Conference on Learning Representations (<b>ICLR</b>), 2020.
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey, <b>Xingjun Ma</b><br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2020. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
 
+<a href="https://arxiv.org/abs/1907.10456.pdf" target="_blank"><b>Understanding Adversarial Attacks on Deep Learning Based Medical Image Analysis Systems</b></a><br/>
+<b>Xingjun Ma</b><sup>*</sup>, Yuhao Niu<sup>*</sup>, Lin Gu, Yisen Wang, Yitian Zhao, James Bailey, Feng Lu<br/>
+Pattern Recognition (<b>PR</b>), 110, 2021, 107332. (accepted in 2020)<br/> 
+Press: <a href="https://www.rsipvision.com/ComputerVisionNews-2020October/4/" target="_blank"> Computer Vision News</a>
+
 <a href="https://arxiv.org/abs/2003.03030" target="_blank"><b>Clean-Label Backdoor Attacks on Video Recognition Models</b></a>
 <a href="https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack" target="_blank"> [Code] </a><br/>
 Shihao Zhao, <b>Xingjun Ma</b>, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
@@ -167,7 +167,7 @@ European Conference on Computer Vision (<b>ECCV<b>), 2020. (<span style="color:r
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"><b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery</b></a> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
-International Conference on Artificial Intelligence in Education (<b>AIED<b>), Ifrane, Morocco, 2020.
+International Conference on Artificial Intelligence in Education (<b>AIED<b>), 2020.
 
 <a href="https://arxiv.org/abs/1906.01167" target="_blank"><b>Towards Fair and Privacy-Preserving Federated Deep Models</b></a>
 <a href="https://github.com/lingjuanlv/FPPDL" target="_blank"> [Code] </a>
