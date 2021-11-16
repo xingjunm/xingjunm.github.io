@@ -27,27 +27,27 @@ Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 <a href="https://openreview.net/forum?id=iAmZUo0DxC0" target="_blank"><b>Unlearnable Examples: Making Personal Data Unexploitable</b> </a>
 <a href="https://github.com/HanxunH/Unlearnable-Examples" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/Unlearnable-Examples/" target="_blank"> [Webpage] </a><br/>
 Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey, Yisen Wang<br/>
-International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)<br/>
+International Conference on Learning Representations (<b>ICLR</b>), 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)<br/>
 Press: <a href="https://www.technologyreview.com/2021/05/05/1024613/stop-ai-recognizing-your-face-selfies-machine-learning-facial-recognition-clearview" target="_blank">MIT Technology Review</a>, <a href="https://pursuit.unimelb.edu.au/articles/blocking-ai-to-keep-your-personal-data-your-own" target="_blank">PURSUIT</a>, <a href="https://gadgets.ndtv.com/science/news/facial-recognition-ai-spoofing-for-selfies-fawkes-lowkey-image-cloaking-adversarial-attacks-2439007" target="_blank">Gadgets 360</a>
 
 <a href="https://openreview.net/forum?id=9l0K4OM-oXE" target="_blank"><b>Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks</b></a>
 <a href="https://github.com/bboylyg/NAD" target="_blank"> [Code] </a><br/>
 Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, <b>Xingjun Ma</b><br/>
-International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021.
+International Conference on Learning Representations (<b>ICLR</b>), 2021.
 
 <a href="https://openreview.net/forum?id=zQTezqCCtNx" target="_blank"><b>Improving Adversarial Robustness via Channel-wise Activation Suppressing</b></a>
 <a href="https://github.com/bymavis/CAS_ICLR2021" target="_blank"> [Code] </a><br/>
 Yang Bai, Yuyuan Zeng, Yong Jiang, Shu-Tao Xia, <b>Xingjun Ma</b>, Yisen Wang<br/>
-International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
+International Conference on Learning Representations (<b>ICLR</b>), 2021. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
 
 <a href="https://arxiv.org/abs/2108.07969" target="_blank"><b>Revisiting Adversarial Robustness Distillation: Robust Soft Labels Make Student Better</b></a>
 <a href="https://github.com/zibojia/RSLAD" target="_blank"> [Code] </a><br/>
 Bojia Zi<sup>*</sup>, Shihao Zhao<sup>*</sup>, <b>Xingjun Ma</b>, Yu-Gang Jiang<br/>
-International Conference on Computer Vision (<b>ICCV</b>), Virtual, 2021.
+International Conference on Computer Vision (<b>ICCV</b>), 2021.
 
 <a href="https://arxiv.org/abs/2106.01532" target="_blank"><b>Noise Doesn’t Lie: Towards Universal Detection of Deep Inpainting </b></a><br/>
 Ang Li, Qiuhong Ke, <b>Xingjun Ma</b>, Haiqin Weng, Zhiyuan Zong, Feng Xue, Rui Zhang<br/>
-International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Virtual/Montreal, 2021.
+International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2021.
 
 <a href="/assets/files/LID_tail_entropy_SISAP2021.pdf" target="_blank"><b>Relationships between Local Intrinsic Dimensionality and Tail Entropy</b></a>
 <a href="https://www.youtube.com/watch?v=4pG0_wRfd5g&list=PLU6sx10A4i3YMTkRclcn8HEXPYWZrLJdo" target="_blank"> [Video] </a><br/>
@@ -61,28 +61,28 @@ IEEE International Conference on Bioinformatics and Biomedicine (<b>BIBM</b>), 2
 <a href="https://arxiv.org/abs/2102.05913.pdf" target="_blank"><b>RobOT: Robustness-Oriented Testing for Deep Learning Systems</b></a>
 <a href="https://github.com/SmallkeyChen/RobOT" target="_blank"> [Tookit] </a><br/>
 Jingyi Wang, Jialuo Chen, Youcheng Sun, <b>Xingjun Ma</b>, Dongxia Wang, Jun Sun, Peng Cheng<br/>
-International Conference on Software Engineering (<b>ICSE</b>), Virtual, 2021.
+International Conference on Software Engineering (<b>ICSE</b>), 2021.
 
 <a href="https://arxiv.org/abs/2106.03355" target="_blank"><b>Sub-trajectory Similarity Join with Obfuscation</b></a><br/>
 Yanchuan Chang, Jianzhong Qi, Egemen Tanin, <b>Xingjun Ma</b>, Hanan Samet<br/>
-International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), Virtual, 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up Award</span>)
+International Conference on Scientific and Statistical Database Management (<b>SSDBM</b>), 2021. (<span style="color:red;font-weight:bold">Best Paper Runner-up Award</span>)
 
 <a href="https://arxiv.org/abs/2104.10377.pdf" target="_blank"><b>Dual Head Adversarial Training</b></a> 
 <a href="https://github.com/yujingmarkjiang/Dual-Head-Adversarial-Training" target="_blank"> [Code]</a> <br/>
 Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
-International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
+International Joint Conference on Neural Networks (<b>IJCNN</b>), 2021.
 
 <a href="https://arxiv.org/abs/2101.00336.pdf" target="_blank"><b>Neural Architecture Search via Combinatorial Multi-Armed Bandit</b></a><br/>
 Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
-International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
+International Joint Conference on Neural Networks (<b>IJCNN</b>), 2021.
  
 <a href=""><b>Federated Learning with Extreme Label Skew: A Data Extension Approach</b></a><br/>
 Saheed Tijani, <b>Xingjun Ma</b>, Frank Jiang, Robin Doss<br/>
-International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
+International Joint Conference on Neural Networks (<b>IJCNN</b>), 2021.
  
 <a href=""><b>Microwave Link Failures Prediction via LSTM-based Feature Fusion Network</b></a><br/>
 Zichan Ruan, Shuiqiao Yang, Lei Pan, <b>Xingjun Ma</b>, Wei Luo, Marthie Grobler<br/>
-International Joint Conference on Neural Networks (<b>IJCNN</b>), Virtual 2021.
+International Joint Conference on Neural Networks (<b>IJCNN</b>), 2021.
 
 <a href="https://arxiv.org/abs/2102.07277.pdf" target="_blank"><b>Anomaly Detection for Scenario-based Insider Activities using CGAN Augmented Data</b></a> <br/>
 R G Gayathri, Atul Sajjanhar, Yong Xiang, <b>Xingjun Ma</b><br/>
@@ -127,43 +127,43 @@ arXiv preprint.
 <a href="https://arxiv.org/abs/2006.13554" target="_blank"><b>Normalized Loss Functions for Deep Learning with Noisy Labels</b></a>
 <a href="https://github.com/HanxunHuangLemonBear/Active-Passive-Losses" target="_blank"> [Code] </a><br/>
 <b>Xingjun Ma</b><sup>*</sup>, Hanxun Huang<sup>*</sup>, Yisen Wang, Simone Romano, Sarah M. Erfani, James Bailey<br/>
-International Conference on Machine Learning (<b>ICML</b>), Virtual, 2020.
+International Conference on Machine Learning (<b>ICML</b>), 2020.
  
 <a href="https://openreview.net/forum?id=rklOg6EFwS" target="_blank"><b>Improving Adversarial Robustness Requires Revisiting Misclassified Examples</b></a>
 <a href="https://github.com/YisenWang/MART" target="_blank"> [Code] </a><br/>
 Yisen Wang*, Difan Zou*, Jinfeng Yi, James Bailey, <b>Xingjun Ma</b>, Quanquan Gu <br/>
-International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2020.
+International Conference on Learning Representations (<b>ICLR</b>), 2020.
 
 <a href="https://openreview.net/forum?id=BJlRs34Fvr" target="_blank"><b>Skip Connections Matter: on the Transferability of Adversarial Examples Generated with ResNets</b></a>
 <a href="https://github.com/csdongxian/skip-connections-matter" target="_blank"> [Code] </a><br/>
 Dongxian Wu, Yisen Wang, Shu-Tao Xia, James Bailey, <b>Xingjun Ma</b><br/>
-International Conference on Learning Representations (<b>ICLR</b>), Virtual, 2020. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
+International Conference on Learning Representations (<b>ICLR</b>), 2020. (<span style="color:red;font-weight:bold">Spotlight, top 4%</span>)
 
 <a href="https://arxiv.org/abs/2003.03030" target="_blank"><b>Clean-Label Backdoor Attacks on Video Recognition Models</b></a>
 <a href="https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack" target="_blank"> [Code] </a><br/>
 Shihao Zhao, <b>Xingjun Ma</b>, Xiang Zheng, James Bailey, Jingjing Chen, Yu-Gang Jiang<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Virtual, 2020.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020.
 
 <a href="https://arxiv.org/abs/2003.08757" target="_blank"><b>Adversarial Camouflage: Hiding Physical-World Attacks with Natural Styles</b></a>
 <a href="https://github.com/RjDuan/AdvCam-Hide-Adv-with-Natural-Styles" target="_blank"> [Code] </a><br/>
 Ranjie Duan, <b>Xingjun Ma</b>, Yisen Wang, James Bailey, Kai Qin, Yun Yang<br/>
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), Virtual, 2020.
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2020.
 
 <a href="https://arxiv.org/abs/2101.01456" target="_blank"><b>WildDeepfake: A Challenging Real-World Dataset for Deepfake Detection</b></a>
 <a href="https://github.com/deepfakeinthewild/deepfake-in-the-wild" target="_blank"> [Dataset/Code] </a><br/>
 Bojia Zi, Jingjing Chen, Minghao Chang, <b>Xingjun Ma</b>, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (<b>ACM MM<b>), Virtual, 2020.
+ACM International Conference on Multimedia (<b>ACM MM<b>), 2020.
 
 <a href="https://arxiv.org/abs/2007.02343" target="_blank"><b>Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks</b></a>
 <a href="https://github.com/DreamtaleCore/Refool" target="_blank"> [Code] </a>
 <br/>
 Yunfei Liu, <b>Xingjun Ma</b>, James Bailey, Feng Lu<br/>
-European Conference on Computer Vision (<b>ECCV<b>), Virtual, 2020.
+European Conference on Computer Vision (<b>ECCV<b>), 2020.
 
 <a href="https://arxiv.org/abs/2009.05721" target="_blank"><b>Short-Term and Long-Term Context Aggregation Network for Video Inpainting</b></a>
 <br/>
 Ang Li, Shanshan Zhao, <b>Xingjun Ma</b>, Mingming Gong, Jianzhong Qi, Rui Zhang, Dacheng Tao, Ramamohanarao Kotagiri<br/>
-European Conference on Computer Vision (<b>ECCV<b>), Virtual, 2020. (<span style="color:red;font-weight:bold">Spotlight, top 5%</span>)
+European Conference on Computer Vision (<b>ECCV<b>), 2020. (<span style="color:red;font-weight:bold">Spotlight, top 5%</span>)
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"><b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery</b></a> <br/>
 Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
