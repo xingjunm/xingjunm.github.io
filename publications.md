@@ -6,6 +6,12 @@ subtitle:
 
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
+### 2022
+<a href="" target="_blank"><b>Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models</b></a><br/>
+Jialuo Chen, Jingyi Wang, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, <b>Xingjun Ma</b>, Bo Li, Dawn Song <br/>
+IEEE Symposium on Security and Privacy (<b>Oakland</b>), 2022.
+
+
 ### 2021
 
 <a href="https://arxiv.org/abs/2110.03825" target="_blank"><b>Exploring Architectural Ingredients of Adversarially Robust Deep Neural Networks</b></a><a href="https://github.com/HanxunH/RobustWRN" target="_blank"> [Code] </a><br/>
