@@ -7,6 +7,11 @@ subtitle:
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ### 2022
+<a href="" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
+<a href="" target="_blank"> [Code] </a><br/>
+Yuhua Sun, Tailai Zhang, <b>Xingjun Ma</b>, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun<br/>
+ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
+
 <a href="https://openreview.net/pdf?id=qSV5CuSaK_a" target="_blank"><b>Few-Shot Backdoor Attacks on Visual Object Tracking</b></a>
 <a href="https://github.com/HXZhong1997/FSBA" target="_blank"> [Code] </a><br/>
 Yiming Li, Haoxiang Zhong, <b>Xingjun Ma</b>, Yong Jiang, Shu-Tao Xia<br/>
