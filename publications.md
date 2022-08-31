@@ -7,6 +7,12 @@ subtitle:
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ### 2022
+
+<a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
+James Bailey, Michael E. Houle, Xingjun Ma<br/>
+Entropy, 2022, 24, 1220.
+
+
 <a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
 <a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
 Yuhua Sun, Tailai Zhang, <b>Xingjun Ma</b>, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun<br/>
@@ -182,7 +188,7 @@ Ang Li, Shanshan Zhao, <b>Xingjun Ma</b>, Mingming Gong, Jianzhong Qi, Rui Zhang
 European Conference on Computer Vision (<b>ECCV<b>), 2020. (<span style="color:red;font-weight:bold">Spotlight, top 5%</span>)
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-52237-7_24" target="_blank"><b>Transfer of Automated Performance Feedback Models to Different Specimens in Virtual Reality Temporal Bone Surgery</b></a> <br/>
-Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, James Bailey and Stephen O'Leary<br/>
+Jesslyn Lamtara, Nathan Hanegbi, Benjamin Talks, Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, James Bailey, Stephen O'Leary<br/>
 International Conference on Artificial Intelligence in Education (<b>AIED<b>), 2020.
 
 <a href="https://arxiv.org/abs/1906.01167" target="_blank"><b>Towards Fair and Privacy-Preserving Federated Deep Models</b></a>
@@ -190,7 +196,7 @@ International Conference on Artificial Intelligence in Education (<b>AIED<b>), 2
 <a href="https://medium.com/@llv_9800/how-to-ensure-collaborative-fairness-and-privacy-in-decentralized-federated-learning-721e37595604" target="_blank"> [Medium] </a>
 <a href="https://www.youtube.com/watch?v=d_Z_YmBvmno" target="_blank"> [Youtube] </a>
 <br/>
-Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, <b>Xingjun Ma</b>, Jiong Jin, Han Yu, and Kee Siong Ng<br/>
+Lingjuan Lyu, Jiangshan Yu, Karthik Nandakumar, Yitong Li, <b>Xingjun Ma</b>, Jiong Jin, Han Yu, Kee Siong Ng<br/>
 IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>). (accepted in 2020)
 
 <a href="https://arxiv.org/abs/2007.09370" target="_blank"><b>How to Democratise and Protect AI: Fair and Differentially Private Decentralised Deep Learning</b></a><br/>
@@ -257,7 +263,7 @@ Sudanthi Wijewickrema, <b>Xingjun Ma</b>, Patorn Piromchai, Robert Briggs, James
 International Conference on Artificial Intelligence in Education (<b>AIED</b>), London, UK, 2018
  
 <a href="https://people.eng.unimelb.edu.au/baileyj/papers/CBMS_2018_final.pdf" target="_blank"><b>Development and Validation of a Virtual Reality Tutor to Teach Clinically Oriented Surgical Anatomy of the Ear</b></a><br/>
-Sudanthi Wijewickrema, Bridget Copson, <b>Xingjun Ma</b>, Robert Briggs, James Bailey, Gregor Kennedy and Stephen O'Leary<br/> 
+Sudanthi Wijewickrema, Bridget Copson, <b>Xingjun Ma</b>, Robert Briggs, James Bailey, Gregor Kennedy, Stephen O'Leary<br/> 
 IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), 2018
 
 
