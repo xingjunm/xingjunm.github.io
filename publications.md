@@ -13,7 +13,7 @@ James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
 Entropy, 2022, 24, 1220.
 
 <a href="https://arxiv.org/abs/2205.14926" target="_blank"><b>CalFAT: Calibrated Federated Adversarial Training with Label Skewness</b></a><br/>
-JChen Chen, Yuchen Liu, Xingjun Ma, Lingjuan Lyu<br/>
+JChen Chen, Yuchen Liu, <b>Xingjun Ma</b>, Lingjuan Lyu<br/>
 Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
