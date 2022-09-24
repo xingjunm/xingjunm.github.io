@@ -9,9 +9,12 @@ The full list of publications can be found on <a href="https://scholar.google.co
 ### 2022
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
-James Bailey, Michael E. Houle, Xingjun Ma<br/>
+James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
 Entropy, 2022, 24, 1220.
 
+<a href="https://arxiv.org/abs/2205.14926" target="_blank"><b>CalFAT: Calibrated Federated Adversarial Training with Label Skewness</b></a><br/>
+JChen Chen, Yuchen Liu, Xingjun Ma, Lingjuan Lyu<br/>
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
 
 <a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
 <a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
