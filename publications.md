@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2022
 
+<a href="" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
+Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
+To appear in Journal of Materials Science.
+
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
 Entropy, 2022, 24, 1220.
