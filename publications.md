@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2022
 
+<a href="" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
+Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
+The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
+
 <a href="" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
 Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
 To appear in Journal of Materials Science.
