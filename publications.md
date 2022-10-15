@@ -8,13 +8,17 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2022
 
+<a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
+Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
+To appear in IEEE Transactions on Neural Networks and Learning Systems
+
 <a href="" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
 The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
 
 <a href="" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
 Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
-To appear in Journal of Materials Science.
+To appear in Journal of Materials Science
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
