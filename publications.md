@@ -218,9 +218,6 @@ IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>). (accepted i
 Lingjuan Lyu, Yitong Li, Karthik, Nandakumar, Jiangshan Yu, <b>Xingjun Ma</b><br/>
 IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>). (accepted in 2020)
 
-<a href="https://arxiv.org/abs/2012.06337.pdf" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a> <br/>
-Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Lichao Sun, Jun Zhao, Qiang Yang, Philip S. Yu<br/>
-arXiv preprint.
 
 ### 2019
 
