@@ -16,9 +16,9 @@ To appear in IEEE Transactions on Neural Networks and Learning Systems
 Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
 The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
 
-<a href="" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
+<a href="https://link.springer.com/article/10.1007/s10853-022-07793-6" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
 Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
-To appear in Journal of Materials Science
+Journal of Materials Science (accepted in 2022)
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
