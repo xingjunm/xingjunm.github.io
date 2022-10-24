@@ -12,7 +12,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
 To appear in IEEE Transactions on Neural Networks and Learning Systems
 
-<a href="" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
+<a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
 The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
 
