@@ -6,11 +6,18 @@ subtitle:
 
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
+### 2023
+
+<a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b></a><br/>
+Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
+IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2023.
+
+
 ### 2022
 
 <a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
 Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
-To appear in IEEE Transactions on Neural Networks and Learning Systems
+IEEE Transactions on Neural Networks and Learning Systems (accepted in 2022).
 
 <a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
@@ -18,7 +25,7 @@ The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP),
 
 <a href="https://link.springer.com/article/10.1007/s10853-022-07793-6" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
 Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
-Journal of Materials Science (accepted in 2022)
+Journal of Materials Science (accepted in 2022).
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
@@ -26,7 +33,7 @@ Entropy, 2022, 24, 1220.
 
 <a href="https://arxiv.org/abs/2205.14926" target="_blank"><b>CalFAT: Calibrated Federated Adversarial Training with Label Skewness</b></a><br/>
 Chen Chen, Yuchen Liu, <b>Xingjun Ma</b>, Lingjuan Lyu<br/>
-Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2021.
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2022.
 
 <a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
 <a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
