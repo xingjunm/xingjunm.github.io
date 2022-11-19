@@ -29,7 +29,7 @@ Journal of Materials Science (accepted in 2022).
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
-Entropy, 2022, 24, 1220.
+Entropy 24(9), 1220, 2022.
 
 <a href="https://arxiv.org/abs/2205.14926" target="_blank"><b>CalFAT: Calibrated Federated Adversarial Training with Label Skewness</b></a><br/>
 Chen Chen, Yuchen Liu, <b>Xingjun Ma</b>, Lingjuan Lyu<br/>
