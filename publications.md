@@ -10,7 +10,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 <a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b></a><br/>
 Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
-IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2023.
+IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
 
 ### 2022
@@ -36,7 +36,7 @@ ACM International Conference on Multimedia (<b>ACM MM</b>), 2022.
 
 <a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
-The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
+The 2022 Conference on Empirical Methods on Natural Language Processing (<b>EMNLP</b>), 2022.
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
