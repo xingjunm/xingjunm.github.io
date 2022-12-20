@@ -15,39 +15,43 @@ IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2023.
 
 ### 2022
 
-<a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
-Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
-IEEE Transactions on Neural Networks and Learning Systems (accepted in 2022).
-
-<a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
-Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
-The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
-
-<a href="https://link.springer.com/article/10.1007/s10853-022-07793-6" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
-Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
-Journal of Materials Science (accepted in 2022).
-
-<a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
-James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
-Entropy 24(9), 1220, 2022.
-
-<a href="https://arxiv.org/abs/2205.14926" target="_blank"><b>CalFAT: Calibrated Federated Adversarial Training with Label Skewness</b></a><br/>
-Chen Chen, Yuchen Liu, <b>Xingjun Ma</b>, Lingjuan Lyu<br/>
-Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2022.
-
-<a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
-<a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
-Yuhua Sun, Tailai Zhang, <b>Xingjun Ma</b>, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun<br/>
-ACM International Conference on Multimedia (<b>ACMMM</b>), 2022.
 
 <a href="https://openreview.net/pdf?id=qSV5CuSaK_a" target="_blank"><b>Few-Shot Backdoor Attacks on Visual Object Tracking</b></a>
 <a href="https://github.com/HXZhong1997/FSBA" target="_blank"> [Code] </a><br/>
 Yiming Li, Haoxiang Zhong, <b>Xingjun Ma</b>, Yong Jiang, Shu-Tao Xia<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2022.
 
+<a href="https://arxiv.org/abs/2205.14926" target="_blank"><b>CalFAT: Calibrated Federated Adversarial Training with Label Skewness</b></a><br/>
+Chen Chen, Yuchen Liu, <b>Xingjun Ma</b>, Lingjuan Lyu<br/>
+Advances in Neural Information Processing Systems (<b>NeurIPS</b>), 2022.
+
 <a href="https://arxiv.org/abs/2112.05588" target="_blank"><b>Copy, Right? A Testing Framework for Copyright Protection of Deep Learning Models</b></a> <a href="https://github.com/Testing4AI/DeepJudge" target="_blank"> [Code] </a><br/>
 Jialuo Chen, Jingyi Wang, Tinglan Peng, Youcheng Sun, Peng Cheng, Shouling Ji, <b>Xingjun Ma</b>, Bo Li, Dawn Song <br/>
 IEEE Symposium on Security and Privacy (<b>Oakland</b>), 2022.
+
+<a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
+<a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
+Yuhua Sun, Tailai Zhang, <b>Xingjun Ma</b>, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun<br/>
+ACM International Conference on Multimedia (<b>ACM MM</b>), 2022.
+
+<a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
+Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
+The 2022 Conference on Empirical Methods on Natural Language Processing (EMNLP), 2022.
+
+<a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
+James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
+Entropy 24(9), 1220, 2022.
+
+<a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
+Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
+IEEE Transactions on Neural Networks and Learning Systems (accepted in 2022).
+
+<a href="" target="_blank"><b>QuoTe: Quality-oriented Testing for Deep Learning Systems</b></a><br/>Jialuo Chen, Jingyi Wang*, <b>Xingjun Ma</b>, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng <br/>
+ACM Transactions on Software Engineering and Methodology (accepted in 2022).
+
+<a href="https://link.springer.com/article/10.1007/s10853-022-07793-6" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
+Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
+Journal of Materials Science (accepted in 2022).
 
 
 ### 2021
