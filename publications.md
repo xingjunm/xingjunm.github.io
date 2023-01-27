@@ -9,7 +9,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 ### 2023
 
 <a href="https://arxiv.org/abs/2301.10908" target="_blank"><b>Distilling Cognitive Backdoor Patterns within an Image</b></a> <a href="https://github.com/HanxunH/CognitiveDistillation" target="_blank"> [Code] </a> <br/>
-Hanxun Huang, <b>Xingjun Ma</b>, Sarah Monazam Erfani and James Bailey<br/>
+Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2023.
 
 <a href="https://openreview.net/forum?id=-htnolWDLvP" target="_blank"><b>Transferable Unlearnable Examples</b></a><br/>
