@@ -25,7 +25,7 @@ IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
 <a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
-Entropy 24(9), 1220, 2022.
+<b>Entropy</b> 24(9), 1220, 2022.
 
 <a href="https://openreview.net/pdf?id=qSV5CuSaK_a" target="_blank"><b>Few-Shot Backdoor Attacks on Visual Object Tracking</b></a>
 <a href="https://github.com/HXZhong1997/FSBA" target="_blank"> [Code] </a><br/>
