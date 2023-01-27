@@ -8,6 +8,14 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2023
 
+<a href="https://arxiv.org/abs/2301.10908" target="_blank"><b>Distilling Cognitive Backdoor Patterns within an Image</b></a> <a href="https://github.com/HanxunH/CognitiveDistillation" target="_blank"> [Code] </a> <br/>
+Hanxun Huang, <b>Xingjun Ma</b>, Sarah Monazam Erfani and James Bailey<br/>
+International Conference on Learning Representations (<b>ICLR</b>), 2023.
+
+<a href="https://openreview.net/forum?id=-htnolWDLvP" target="_blank"><b>Transferable Unlearnable Examples</b></a><br/>
+Jie Ren, Han Xu, Yuxuan Wan, <b>Xingjun Ma</b>, Lichao Sun, Jiliang Tang<br/>
+International Conference on Learning Representations (<b>ICLR</b>), 2023.
+
 <a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b></a><br/>
 Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
@@ -15,6 +23,9 @@ IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
 ### 2022
 
+<a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
+James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
+Entropy 24(9), 1220, 2022.
 
 <a href="https://openreview.net/pdf?id=qSV5CuSaK_a" target="_blank"><b>Few-Shot Backdoor Attacks on Visual Object Tracking</b></a>
 <a href="https://github.com/HXZhong1997/FSBA" target="_blank"> [Code] </a><br/>
@@ -37,10 +48,6 @@ ACM International Conference on Multimedia (<b>ACM MM</b>), 2022.
 <a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, <b>Xingjun Ma</b>, Chenguang Wang, Xu Sun <br/>
 The 2022 Conference on Empirical Methods on Natural Language Processing (<b>EMNLP</b>), 2022.
-
-<a href="https://www.mdpi.com/1099-4300/24/9/1220/pdf" target="_blank"><b>Local Intrinsic Dimensionality, Entropy and Statistical Divergences</b></a><br/>
-James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
-Entropy 24(9), 1220, 2022.
 
 <a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
 Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
