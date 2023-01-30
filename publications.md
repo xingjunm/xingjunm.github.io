@@ -16,7 +16,7 @@ International Conference on Learning Representations (<b>ICLR</b>), 2023.
 Jie Ren, Han Xu, Yuxuan Wan, <b>Xingjun Ma</b>, Lichao Sun, Jiliang Tang<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2023.
 
-<a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b></a><br/>
+<a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b><a href="https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack" target="_blank"> [Code] </a></a><br/>
 Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
@@ -51,7 +51,7 @@ The 2022 Conference on Empirical Methods on Natural Language Processing (<b>EMNL
 
 <a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
 Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
-IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>).
+IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>), 2022.
 
 <a href="" target="_blank"><b>QuoTe: Quality-oriented Testing for Deep Learning Systems</b></a><br/>Jialuo Chen, Jingyi Wang*, <b>Xingjun Ma</b>, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng <br/>
 ACM Transactions on Software Engineering and Methodology (accepted in 2022).
