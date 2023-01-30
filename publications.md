@@ -51,14 +51,14 @@ The 2022 Conference on Empirical Methods on Natural Language Processing (<b>EMNL
 
 <a href="https://arxiv.org/abs/2012.06337" target="_blank"><b>Privacy and Robustness in Federated Learning: Attacks and Defenses</b></a><br/>
 Lingjuan Lyu, Han Yu, <b>Xingjun Ma</b>, Chen Chen, Lichao Sun, Jun Zhao, Qiang Yang, Philip Yu <br/>
-IEEE Transactions on Neural Networks and Learning Systems (accepted in 2022).
+IEEE Transactions on Neural Networks and Learning Systems (<b>TNNLS</b>).
 
 <a href="" target="_blank"><b>QuoTe: Quality-oriented Testing for Deep Learning Systems</b></a><br/>Jialuo Chen, Jingyi Wang*, <b>Xingjun Ma</b>, Youcheng Sun, Jun Sun, Peixin Zhang and Peng Cheng <br/>
 ACM Transactions on Software Engineering and Methodology (accepted in 2022).
 
 <a href="https://link.springer.com/article/10.1007/s10853-022-07793-6" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
 Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
-Journal of Materials Science (accepted in 2022).
+<b>Journal of Materials Science</b>. (<span style="color:red;font-weight:bold">2022 Robert W. Cahn Best Paper Award</span>)
 
 
 ### 2021
