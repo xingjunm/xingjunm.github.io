@@ -58,7 +58,7 @@ ACM Transactions on Software Engineering and Methodology (<b>TOSEM</b>) (accepte
 
 <a href="https://link.springer.com/article/10.1007/s10853-022-07793-6" target="_blank"><b>Machine learning guided alloy design of high-temperature NiTiHf shape memory alloys</b></a><br/>
 Udesh M.H.U. Kankanamge, Johannes Reiner, <b>Xingjun Ma</b>, Santiago Corujeira Gallo, Wei Xu <br/>
-<b>Journal of Materials Science</b>. (<a href="https://link.springer.com/article/10.1007/s10853-023-08250-8#:~:text=The%20winner%20of%20the%202022,Corujeira%20Gallo%2C%20and%20Wei%20Xu." target="_blank" style = "color: red"><b>2022 Robert W. Cahn Best Paper Award</b></a>)
+<b>Journal of Materials Science</b>. (<span style="color:red;font-weight:bold">2022 Robert W. Cahn Best Paper Award</span>)
 
 
 ### 2021
