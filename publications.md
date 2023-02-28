@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2023
 
+<a href="https://arxiv.org/abs/2301.01217" target="_blank"><b>Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples</b></a> <a href="https://github.com/jiamingzhang94/Unlearnable-Clusters" target="_blank"> [Code] </a> <br/>
+Jiaming Zhang, <b>Xingjun Ma</b>, Qi Yi, Jitao Sang, Yu-gang Jiang, Yaowei Wang, Changsheng Xu<br/>
+IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2023.
+
 <a href="https://arxiv.org/abs/2301.10908" target="_blank"><b>Distilling Cognitive Backdoor Patterns within an Image</b></a> <a href="https://github.com/HanxunH/CognitiveDistillation" target="_blank"> [Code] </a> <br/>
 Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2023.
