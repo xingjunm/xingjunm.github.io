@@ -16,7 +16,7 @@ IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2023.
 Hanxun Huang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2023.
 
-<a href="https://openreview.net/forum?id=-htnolWDLvP" target="_blank"><b>Transferable Unlearnable Examples</b></a><br/>
+<a href="https://openreview.net/forum?id=-htnolWDLvP" target="_blank"><b>Transferable Unlearnable Examples</b></a><a href="https://github.com/renjie3/TUE" target="_blank"> [Code] </a><br/>
 Jie Ren, Han Xu, Yuxuan Wan, <b>Xingjun Ma</b>, Lichao Sun, Jiliang Tang<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2023.
 
