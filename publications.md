@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2023
 
+<a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A Subtle Cause of Overestimated Adversarial Robustness</b></a><br/>
+<b>Xingjun Ma</b><sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/> 
+To appear in Machine Learning (accepted in 2023).
+
 <a href="https://arxiv.org/abs/2301.01217" target="_blank"><b>Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples</b></a> <a href="https://github.com/jiamingzhang94/Unlearnable-Clusters" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, <b>Xingjun Ma</b>, Qi Yi, Jitao Sang, Yu-gang Jiang, Yaowei Wang, Changsheng Xu<br/>
 IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2023.
@@ -162,10 +166,6 @@ European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 <a href="https://arxiv.org/abs/2101.06898.pdf" target="_blank"><b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b></a>
 <a href="https://github.com/ShihaoZhaoZSH/what-do-deep-nets-learn" target="_blank"> [Code] </a><br/>
 Shihao Zhao, <b>Xingjun Ma</b>, Yisen Wang, James Bailey, Bo Li, Yu-Gang Jiang<br/>
-arXiv preprint.
-
-<a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A Subtle Cause of Overestimated Adversarial Robustness</b></a><br/>
-<b>Xingjun Ma</b><sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/>
 arXiv preprint.
 
 <a href="https://arxiv.org/abs/2102.08081.pdf" target="_blank"><b>A Lazy Approach for Efficient Index Learning</b> </a><br/>
