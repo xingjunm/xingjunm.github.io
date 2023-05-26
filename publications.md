@@ -8,7 +8,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2023
 
-<a href="" target="_blank"><b>Reconstructive Neuron Pruning for Backdoor Defense</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2305.14876" target="_blank"><b>Reconstructive Neuron Pruning for Backdoor Defense</b></a> <a href="https://github.com/bboylyg/RNP" target="_blank"> [Code] </a> <br/>
 Yige Li, Xixiang Lyu, <b>Xingjun Ma</b>, Nodens Koren, Lingjuan Lyu, Bo Li, Yu-Gang Jiang<br/>
 International Conference on Machine Learning (<b>ICML</b>), 2023.
 
