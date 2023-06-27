@@ -28,7 +28,7 @@ International Conference on Learning Representations (<b>ICLR</b>), 2023.
 Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
-<a href="https://people.eng.unimelb.edu.au/baileyj/papers/IS2023" target="_blank"><b>Relationships between tail entropies and local intrinsic dimensionality and their use for estimation and feature representation</b></a> <br/>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437923000819" target="_blank"><b>Relationships between tail entropies and local intrinsic dimensionality and their use for estimation and feature representation</b></a> <br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
 To appear in Information Systems, 2023.
 
