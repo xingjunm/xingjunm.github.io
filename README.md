@@ -1,1 +1,1 @@
-This hosts the personal page for Prof. Xingjun Ma.
+This hosts the personal webpage for Prof. Xingjun Ma.
