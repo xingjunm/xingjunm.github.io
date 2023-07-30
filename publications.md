@@ -24,6 +24,10 @@ International Conference on Learning Representations (<b>ICLR</b>), 2023.
 Jie Ren, Han Xu, Yuxuan Wan, <b>Xingjun Ma</b>, Lichao Sun, Jiliang Tang<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2023.
 
+<a href="" target="_blank"><b>On the Importance of Spatial Relations for Few-shot Action Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
+Yilun Zhang, Yuqian Fu, <b>Xingjun Ma</b>, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br/>
+ACM International Conference on Multimedia (<b>ACM MM</b>), 2023.
+
 <a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b><a href="https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack" target="_blank"> [Code] </a></a><br/>
 Yujing Jiang, <b>Xingjun Ma</b>, Sarah M. Erfani, James Bailey<br/>
 IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
@@ -35,6 +39,12 @@ To appear in Information Systems, 2023.
 <a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A Subtle Cause of Overestimated Adversarial Robustness</b></a><a href="https://github.com/HanxunH/MDAttack" target="_blank"> [Code] </a><br/>
 <b>Xingjun Ma</b><sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/> 
 <b>Machine Learning</b>.
+
+<a href="" target="_blank"><b>Query-efficient Black-box Adversarial Attacks on Automatic Speech Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
+Chuxuan Tong, Xi Zheng, Jianhua Li, <b>Xingjun Ma</b>, Longxiang Gao, Yong Xiang<br/> 
+<b>To appear in IEEE/ACM Transactions on Audio, Speech and Language Processing</b>.
+
+
 
 ### 2022
 
