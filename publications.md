@@ -34,15 +34,15 @@ IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437923000819" target="_blank"><b>Relationships between tail entropies and local intrinsic dimensionality and their use for estimation and feature representation</b></a> <br/>
 James Bailey, Michael E. Houle, <b>Xingjun Ma</b><br/>
-To appear in Information Systems, 2023.
+Information Systems (2023): 102245.
 
 <a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A Subtle Cause of Overestimated Adversarial Robustness</b></a><a href="https://github.com/HanxunH/MDAttack" target="_blank"> [Code] </a><br/>
 <b>Xingjun Ma</b><sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/> 
-<b>Machine Learning</b>.
+Machine Learning (2023): 1-26.
 
 <a href="" target="_blank"><b>Query-efficient Black-box Adversarial Attacks on Automatic Speech Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
 Chuxuan Tong, Xi Zheng, Jianhua Li, <b>Xingjun Ma</b>, Longxiang Gao, Yong Xiang<br/> 
-<b>To appear in IEEE/ACM Transactions on Audio, Speech and Language Processing</b>.
+To appear in IEEE/ACM Transactions on Audio, Speech and Language Processing (<b>TASLP</b>).
 
 
 
