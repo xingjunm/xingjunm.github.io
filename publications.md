@@ -40,7 +40,7 @@ Information Systems (2023): 102245.
 <b>Xingjun Ma</b><sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/> 
 Machine Learning (2023): 1-26.
 
-<a href="" target="_blank"><b>Query-efficient Black-box Adversarial Attacks on Automatic Speech Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
+<a href="https://ieeexplore.ieee.org/abstract/document/10237306" target="_blank"><b>Query-efficient Black-box Adversarial Attacks on Automatic Speech Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
 Chuxuan Tong, Xi Zheng, Jianhua Li, <b>Xingjun Ma</b>, Longxiang Gao, Yong Xiang<br/> 
 To appear in IEEE/ACM Transactions on Audio, Speech and Language Processing (<b>TASLP</b>).
 
