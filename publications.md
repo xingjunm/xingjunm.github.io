@@ -6,6 +6,11 @@ subtitle:
 
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
+### 2024
+<a href="https://openreview.net/pdf?id=oZyAqjAjJW" target="_blank"><b>LDReg: Local Dimensionality Regularized Self-Supervised Learning</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Hanxun Huang, Ricardo J. G. B. Campello, Sarah M. Erfani, <b>Xingjun Ma</b>, Michael E. Houle, James Bailey<br/>
+International Conference on Learning Representations (<b>ICLR</b>), 2024.
+
 ### 2023
 
 <a href="https://arxiv.org/abs/2305.14876" target="_blank"><b>Reconstructive Neuron Pruning for Backdoor Defense</b></a> <a href="https://github.com/bboylyg/RNP" target="_blank"> [Code] </a> <br/>
