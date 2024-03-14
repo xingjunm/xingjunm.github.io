@@ -17,7 +17,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 Hanxun Huang, Ricardo J. G. B. Campello, Sarah M. Erfani, Xingjun Ma, Michael E. Houle, James Bailey<br/>
 International Conference on Learning Representations (<b>ICLR</b>), 2024.
 
-<a href="https://arxiv.org/abs/2402.02028" target="_blank"><b>Unlearnable Examples For Time Series</b></a> </a> <br/>
+<a href="https://arxiv.org/abs/2402.02028" target="_blank"><b>Unlearnable Examples For Time Series</b></a> <br/>
 Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani and James Bailey<br/>
 Pacific-Asia Conference on Knowledge Discovery and Data Mining (<b>PAKDD</b>), 2024.
 
