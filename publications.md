@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2024
 
+<a href="https://arxiv.org/abs/2305.02605" target="_blank"><b>Toward Evaluating Robustness of Reinforcement Learning with Adversarial Policy</b></a> <br/>
+Xiang Zheng, Xingjun Ma, Shengjie Wang, Xinyu Wang, Chao Shen, Cong Wang<br/>
+International Conference on Dependable Systems and Networks (<b>DSN</b>), 2024.
+
 <a href="https://arxiv.org/abs/2205.12709" target="_blank"><b>VeriFi: Towards Verifiable Federated Unlearning</b></a> <br/>
 Xiangshan Gao, Xingjun Ma, Jingyi Wang, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng, Jiming Chen<br/>
 Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2024.
