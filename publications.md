@@ -14,7 +14,7 @@ International Conference on Dependable Systems and Networks (<b>DSN</b>), 2024.
 
 <a href="https://arxiv.org/abs/2205.12709" target="_blank"><b>VeriFi: Towards Verifiable Federated Unlearning</b></a> <br/>
 Xiangshan Gao, Xingjun Ma, Jingyi Wang, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng, Jiming Chen<br/>
-Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2024.
+IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2024.
 
 <a href="https://arxiv.org/abs/2311.05915" target="_blank"><b>Fake Alignment: Are LLMs Really Aligned Well?</b></a> <br/>
 Yixu Wang, Yan Teng, Kexin Huang, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang<br/>
