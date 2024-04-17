@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2024
 
+<a href="" target="_blank"><b>Constrained Intrinsic Motivation for Reinforcement Learning</b></a> <br/>
+Xiang Zheng, Xingjun Ma, Chao Shen, Cong Wang<br/>
+International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024.
+
 <a href="https://arxiv.org/abs/2305.02605" target="_blank"><b>Toward Evaluating Robustness of Reinforcement Learning with Adversarial Policy</b></a> <br/>
 Xiang Zheng, Xingjun Ma, Shengjie Wang, Xinyu Wang, Chao Shen, Cong Wang<br/>
 International Conference on Dependable Systems and Networks (<b>DSN</b>), 2024.
