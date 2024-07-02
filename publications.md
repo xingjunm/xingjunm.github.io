@@ -8,6 +8,14 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2024
 
+<a href="https://arxiv.org/abs/2405.16285" target="_blank"><b>ModelLock : Locking Your Model With a Spell</b></a> <br/>
+Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
+Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+
+<a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <br/>
+Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang<br/>
+European Conference on Computer Vision (<b>ECCV</b>), 2024.
+
 <a href="" target="_blank"><b>Constrained Intrinsic Motivation for Reinforcement Learning</b></a> <br/>
 Xiang Zheng, Xingjun Ma, Chao Shen, Cong Wang<br/>
 International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024.
