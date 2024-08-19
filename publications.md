@@ -8,9 +8,23 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2024
 
-<a href="https://arxiv.org/abs/2405.16285" target="_blank"><b>ModelLock : Locking Your Model With a Spell</b></a> <br/>
+<a href="https://arxiv.org/abs/2405.16285" target="_blank"><b>ModelLock : Locking Your Model With a Spell</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
 Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+
+<a href="https://arxiv.org/abs/2405.17894" target="_blank"><b>White-box Multimodal Jailbreaks Against Large Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
+Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
+Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+
+<a href="https://www.arxiv.org/abs/2408.01978" target="_blank"><b>AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning</b></a> <a href="https://github.com/xinwong/AdvQDet" target="_blank"> [Code] </a><br/>
+Xin Wang, Kai Chen, Xingjun Ma, Zhineng Chen, Jingjing Chen, Yu-Gang Jiang<br/>
+ ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+
+ <!-- <a href="https://openreview.net/forum?id=bb0M2WYeng" target="_blank"><b>
+Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
+Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Zuxuan Wu<br/>
+ ACM International Conference on Multimedia (<b>ACM MM</b>), 2024. -->
+
 
 <a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <br/>
 Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang<br/>
