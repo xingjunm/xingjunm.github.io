@@ -26,7 +26,7 @@ Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Z
  ACM International Conference on Multimedia (<b>ACM MM</b>), 2024. -->
 
 
-<a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <br/>
+<a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <a href="https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang<br/>
 European Conference on Computer Vision (<b>ECCV</b>), 2024.
 
