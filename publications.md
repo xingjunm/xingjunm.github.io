@@ -229,18 +229,18 @@ Australasian Language Technology Association Workshop (<b>ALTA</b>), 2021.
 Bridget Copson, Sudanthi Wijewickrema, Xingjun Ma, Yun Zhou, Jean-Marc Gerard, Stephen O’Leary <br/>
 European Archives of Oto-Rhino-Laryngology, 1-11, 2021.
 
-<a href="https://arxiv.org/abs/2101.06898.pdf" target="_blank"><b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b></a>
+<!-- <a href="https://arxiv.org/abs/2101.06898.pdf" target="_blank"><b>What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space</b></a>
 <a href="https://github.com/ShihaoZhaoZSH/what-do-deep-nets-learn" target="_blank"> [Code] </a><br/>
 Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, Yu-Gang Jiang<br/>
-arXiv preprint.
+arXiv preprint. -->
 
-<a href="https://arxiv.org/abs/2102.08081.pdf" target="_blank"><b>A Lazy Approach for Efficient Index Learning</b> </a><br/>
+<!-- <a href="https://arxiv.org/abs/2102.08081.pdf" target="_blank"><b>A Lazy Approach for Efficient Index Learning</b> </a><br/>
 Guanli Liu, Lars Kulik, Xingjun Ma, Jianzhong Qi<br/>
 arXiv preprint.
 
 <a href="https://arxiv.org/abs/2101.06704.pdf" target="_blank"><b>Adversarial Interaction Attack: Fooling AI to Misinterpret Human Intentions</b></a><br/>
 Nodens Koren, Qiuhong Ke, Yisen Wang, James Bailey, Xingjun Ma<br/>
-arXiv preprint.
+arXiv preprint. -->
 
 ### 2020
 
@@ -332,10 +332,10 @@ International Joint Conference on Artificial Intelligence (<b>IJCAI<b>), Macao, 
 Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, Xingjun Ma<br/>
 Knowledge and Information Systems (<b>KAIS<b>). (accepted in 2019)
 
-<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</b> 
+<b>Quality Eva<!-- luation of GANs Using Cross Local Intrinsic Dimensionality</b> 
 <a href="https://arxiv.org/abs/1905.00643"> [Paper] </a><br/>
 Sukarna Barua, Xingjun Ma, Sarah M. Erfani, Michael E. Houle, James Bailey<br/>
-arxiv preprint.
+arxiv preprint. -->
 
 <!--
 <a href="https://minerva-access.unimelb.edu.au/bitstream/handle/11343/219680/Machine%20Learning%20with%20Adversarial%20Perturbations%20and%20Noisy%20Labels.pdf?sequence=1&isAllowed=y">Machine Learning with Adversarial Perturbations and Noisy Labels</a><br/>
@@ -390,9 +390,9 @@ Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, Jam
 IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
 
 
-<a href="https://arxiv.org/pdf/1705.04683.pdf">Feedback Techniques in Computer-Based Simulation Training: A Survey</a><br/>
+<a href="h<!-- ttps://arxiv.org/pdf/1705.04683.pdf">Feedback Techniques in Computer-Based Simulation Training: A Survey</a><br/>
 Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
-arXiv preprint.
+arXiv preprint. -->
 
 
 ### 2016
