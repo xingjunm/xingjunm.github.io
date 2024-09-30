@@ -8,17 +8,22 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2024
 
+<a href="" target="_blank"><b>UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation</b></a> <br/>
+Ye Sun, Hao Zhang, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.
+
+
 <a href="https://arxiv.org/abs/2405.16285" target="_blank"><b>ModelLock : Locking Your Model With a Spell</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
-Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://arxiv.org/abs/2405.17894" target="_blank"><b>White-box Multimodal Jailbreaks Against Large Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
 Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
-Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://www.arxiv.org/abs/2408.01978" target="_blank"><b>AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning</b></a> <a href="https://github.com/xinwong/AdvQDet" target="_blank"> [Code] </a><br/>
 Xin Wang, Kai Chen, Xingjun Ma, Zhineng Chen, Jingjing Chen, Yu-Gang Jiang<br/>
- ACM International Conference on Multimedia (<b>ACM MM</b>), 2024.
+ ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
 
  <!-- <a href="https://openreview.net/forum?id=bb0M2WYeng" target="_blank"><b>
 Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
@@ -28,15 +33,15 @@ Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Z
 
 <a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <a href="https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang<br/>
-European Conference on Computer Vision (<b>ECCV</b>), 2024.
+European Conference on Computer Vision (<b>ECCV</b>), MiCo Milano, Italy, 2024.
 
 <a href="" target="_blank"><b>Constrained Intrinsic Motivation for Reinforcement Learning</b></a> <br/>
 Xiang Zheng, Xingjun Ma, Chao Shen, Cong Wang<br/>
-International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), 2024.
+International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Jeju, Korea, 2024.
 
 <a href="https://arxiv.org/abs/2305.02605" target="_blank"><b>Toward Evaluating Robustness of Reinforcement Learning with Adversarial Policy</b></a> <br/>
 Xiang Zheng, Xingjun Ma, Shengjie Wang, Xinyu Wang, Chao Shen, Cong Wang<br/>
-International Conference on Dependable Systems and Networks (<b>DSN</b>), 2024.
+International Conference on Dependable Systems and Networks (<b>DSN</b>), Brisbane, Australia, 2024.
 
 <a href="https://arxiv.org/abs/2205.12709" target="_blank"><b>VeriFi: Towards Verifiable Federated Unlearning</b></a> <br/>
 Xiangshan Gao, Xingjun Ma, Jingyi Wang, Youcheng Sun, Bo Li, Shouling Ji, Peng Cheng, Jiming Chen<br/>
@@ -44,12 +49,12 @@ IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2024.
 
 <a href="https://arxiv.org/abs/2311.05915" target="_blank"><b>Fake Alignment: Are LLMs Really Aligned Well?</b></a> <br/>
 Yixu Wang, Yan Teng, Kexin Huang, Chengqi Lyu, Songyang Zhang, Wenwei Zhang, Xingjun Ma, Yu-Gang Jiang, Yu Qiao, Yingchun Wang<br/>
-Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>), 2024.
+Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL</b>), Mexico City, Mexico, 2024.
 
 
 <a href="https://openreview.net/pdf?id=oZyAqjAjJW" target="_blank"><b>LDReg: Local Dimensionality Regularized Self-Supervised Learning</b></a> <a href="https://github.com/HanxunH/LDReg" target="_blank"> [Code] </a> <br/>
 Hanxun Huang, Ricardo J. G. B. Campello, Sarah M. Erfani, Xingjun Ma, Michael E. Houle, James Bailey<br/>
-International Conference on Learning Representations (<b>ICLR</b>), 2024.
+International Conference on Learning Representations (<b>ICLR</b>), Vienna, Austria, 2024.
 
 <a href="https://arxiv.org/abs/2402.02028" target="_blank"><b>Unlearnable Examples For Time Series</b></a> <br/>
 Yujing Jiang, Xingjun Ma, Sarah Monazam Erfani and James Bailey<br/>
@@ -59,23 +64,23 @@ Pacific-Asia Conference on Knowledge Discovery and Data Mining (<b>PAKDD</b>), 2
 
 <a href="https://arxiv.org/abs/2305.14876" target="_blank"><b>Reconstructive Neuron Pruning for Backdoor Defense</b></a> <a href="https://github.com/bboylyg/RNP" target="_blank"> [Code] </a> <br/>
 Yige Li, Xixiang Lyu, Xingjun Ma, Nodens Koren, Lingjuan Lyu, Bo Li, Yu-Gang Jiang<br/>
-International Conference on Machine Learning (<b>ICML</b>), 2023.
+International Conference on Machine Learning (<b>ICML</b>), Hawaii, USA, 2023.
 
 <a href="https://arxiv.org/abs/2301.01217" target="_blank"><b>Unlearnable Clusters: Towards Label-agnostic Unlearnable Examples</b></a> <a href="https://github.com/jiamingzhang94/Unlearnable-Clusters" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xingjun Ma, Qi Yi, Jitao Sang, Yu-Gang Jiang, Yaowei Wang, Changsheng Xu<br/>
-IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), 2023.
+IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Vancouver, Canada, 2023.
 
 <a href="https://arxiv.org/abs/2301.10908" target="_blank"><b>Distilling Cognitive Backdoor Patterns within an Image</b></a> <a href="https://github.com/HanxunH/CognitiveDistillation" target="_blank"> [Code] </a> <br/>
 Hanxun Huang, Xingjun Ma, Sarah M. Erfani, James Bailey<br/>
-International Conference on Learning Representations (<b>ICLR</b>), 2023.
+International Conference on Learning Representations (<b>ICLR</b>), Kigali, Rwanda, 2023.
 
 <a href="https://openreview.net/forum?id=-htnolWDLvP" target="_blank"><b>Transferable Unlearnable Examples</b></a><a href="https://github.com/renjie3/TUE" target="_blank"> [Code] </a><br/>
 Jie Ren, Han Xu, Yuxuan Wan, Xingjun Ma, Lichao Sun, Jiliang Tang<br/>
-International Conference on Learning Representations (<b>ICLR</b>), 2023.
+International Conference on Learning Representations (<b>ICLR</b>), Kigali, Rwanda, 2023.
 
 <a href="" target="_blank"><b>On the Importance of Spatial Relations for Few-shot Action Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
 Yilun Zhang, Yuqian Fu, Xingjun Ma, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (<b>ACM MM</b>), 2023.
+ACM International Conference on Multimedia (<b>ACM MM</b>), Ottawa, Canada, 2023.
 
 <a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b><a href="https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack" target="_blank"> [Code] </a></a><br/>
 Yujing Jiang, Xingjun Ma, Sarah M. Erfani, James Bailey<br/>
