@@ -18,8 +18,7 @@ Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
 Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://arxiv.org/abs/2405.17894" target="_blank"><b>White-box Multimodal Jailbreaks Against Large Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
-Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
-Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
+Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang<br/> ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://www.arxiv.org/abs/2408.01978" target="_blank"><b>AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning</b></a> <a href="https://github.com/xinwong/AdvQDet" target="_blank"> [Code] </a><br/>
 Xin Wang, Kai Chen, Xingjun Ma, Zhineng Chen, Jingjing Chen, Yu-Gang Jiang<br/>
