@@ -24,6 +24,11 @@ Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang<br/
 Xin Wang, Kai Chen, Xingjun Ma, Zhineng Chen, Jingjing Chen, Yu-Gang Jiang<br/>
  ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
 
+
+<a href="https://arxiv.org/abs/2310.16400" target="_blank"><b>Fuse Your Latents:Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="https://github.com/lutianyi0603/fuse_your_latents" target="_blank"> [Code] </a><br/>
+Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Zuxuan Wu<br/>
+ ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
+
  <!-- <a href="https://openreview.net/forum?id=bb0M2WYeng" target="_blank"><b>
 Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
 Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Zuxuan Wu<br/>
