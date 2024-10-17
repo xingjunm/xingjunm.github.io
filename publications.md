@@ -8,7 +8,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2024
 
-<a href="" target="_blank"><b>UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation</b></a> <br/>
+<a href="https://arxiv.org/abs/2410.09909v1" target="_blank"><b>UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation</b></a> <br/>
 Ye Sun, Hao Zhang, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang<br/>
 Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Vancouver, Canada, 2024.
 
