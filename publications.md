@@ -55,11 +55,11 @@ Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Z
 Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang<br/>
 European Conference on Computer Vision (<b>ECCV</b>), MiCo Milano, Italy, 2024.
 
-<a href="" target="_blank"><b>Constrained Intrinsic Motivation for Reinforcement Learning</b></a> <br/>
+<a href="https://arxiv.org/abs/2407.09247" target="_blank"><b>Constrained Intrinsic Motivation for Reinforcement Learning</b></a> <a href="https://github.com/x-zheng16/CIM" target="_blank"> [Code] </a><br/>
 Xiang Zheng, Xingjun Ma, Chao Shen, Cong Wang<br/>
 International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Jeju, Korea, 2024.
 
-<a href="https://arxiv.org/abs/2305.02605" target="_blank"><b>Toward Evaluating Robustness of Reinforcement Learning with Adversarial Policy</b></a> <br/>
+<a href="https://arxiv.org/abs/2305.02605" target="_blank"><b>Toward Evaluating Robustness of Reinforcement Learning with Adversarial Policy</b></a> <a href="https://github.com/x-zheng16/IMAP" target="_blank"> [Code] </a> <br/>
 Xiang Zheng, Xingjun Ma, Shengjie Wang, Xinyu Wang, Chao Shen, Cong Wang<br/>
 International Conference on Dependable Systems and Networks (<b>DSN</b>), Brisbane, Australia, 2024.
 
