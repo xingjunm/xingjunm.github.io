@@ -10,16 +10,16 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 <a href="" target="_blank"><b>AIM: Additional Image Guided Generation of Transferable Adversarial Attacks</b></a> <br/>
 Teng Li, Xingjun Ma, Yu-Gang Jiang<br/>
-AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, Pennsylvania, USA, 2025.
+AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, USA, 2025.
 
 <a href="" target="_blank"><b>CALM: Curiosity-Driven Auditing for Large Language Models</b></a> <br/>
 Xiang Zheng, Longxiang WANG, Yi Liu, Xingjun Ma, Chao Shen, Cong Wang<br/>
-AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, Pennsylvania, USA, 2025.
+AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, USA, 2025.
 
 <a href="" target="_blank"><b>	
 HoneypotNet: Backdoor Attacks Against Model Extraction</b></a> <br/>
 Yixu Wang, Tianle Gu, Yan Teng, Yingchun Wang, Xingjun Ma<br/>
-AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, Pennsylvania, USA, 2025.
+AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, USA, 2025.
 
 
 ### 2024
