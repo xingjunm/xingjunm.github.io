@@ -21,6 +21,11 @@ HoneypotNet: Backdoor Attacks Against Model Extraction</b></a> <br/>
 Yixu Wang, Tianle Gu, Yan Teng, Yingchun Wang, Xingjun Ma<br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, USA, 2025.
 
+<a href="https://arxiv.org/abs/2307.03411" target="_blank"><b>	
+Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs</b></a> <a href="https://github.com/paperCodeEric/LFH" target="_blank"> [Code] </a> <br/>
+Tiehua Zhang, Yuze Liu, Zhishu Shen, Xingjun Ma, Peng Qi, Zhijun Ding, Jiong Jin<br/>
+IEEE Transactions on Artificial Intelligence (<b>TAI</b>), To appear in 2025.
+
 
 ### 2024
 
