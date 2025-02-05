@@ -8,7 +8,15 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
-<a href="" target="_blank"><b>AIM: Additional Image Guided Generation of Transferable Adversarial Attacks</b></a> <br/>
+<a href="https://arxiv.org/abs/2410.20971" target="_blank"><b>BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks</b></a><a href="https://github.com/Vinsonzyh/BlueSuffix" target="_blank"> [Code] </a> <br/>
+Yunhan Zhao, Xiang Zheng, Lin Luo, Yige Li, Xingjun Ma, Yu-Gang Jiang<br/>
+International Conference on Learning Representations (<b>ICLR</b>), Singapore, 2025.
+
+<a href="https://arxiv.org/abs/2502.01385" target="_blank"><b>Detecting Backdoor Samples in Contrastive Language Image Pretraining</b></a><a href="https://github.com/HanxunH/Detect-CLIP-Backdoor-Samples" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/Detect-CLIP-Backdoor-Samples" target="_blank"> [Project] </a> <br/>
+Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey<br/>
+International Conference on Learning Representations (<b>ICLR</b>), Singapore, 2025.
+
+<a href="https://arxiv.org/abs/2501.01106" target="_blank"><b>AIM: Additional Image Guided Generation of Transferable Adversarial Attacks</b></a> <br/>
 Teng Li, Xingjun Ma, Yu-Gang Jiang<br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, USA, 2025.
 
