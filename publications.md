@@ -8,11 +8,11 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
-<a href="https://arxiv.org/abs/2411.15210" target="_blank"><b>Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks</b></a><a href="https://github.com/Vinsonzyh/BlueSuffix" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2411.15210" target="_blank"><b>Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks</b></a><a href="https://opentai.org/VisionSafety" target="_blank"> [Project] </a> <br/>
 Yong Xie, Weijie Zheng, Hanxun Huang, Guangnan Ye, Xingjun Ma<br/>IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Nashville TN, 2025.
 
 
-<a href="https://arxiv.org/abs/2410.20971" target="_blank"><b>TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2411.13136" target="_blank"><b>TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
 Xin Wang, Kai Chen, Jiaming Zhang, Jingjing Chen, Xingjun Ma<br/>IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Nashville TN, 2025.
 
 
