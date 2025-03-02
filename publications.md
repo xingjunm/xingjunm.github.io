@@ -16,7 +16,7 @@ Yong Xie, Weijie Zheng, Hanxun Huang, Guangnan Ye, Xingjun Ma<br/>IEEE/CVF Compu
 Xin Wang, Kai Chen, Jiaming Zhang, Jingjing Chen, Xingjun Ma<br/>IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Nashville TN, 2025.
 
 
-<a href="https://arxiv.org/abs/2410.05346" target="_blank"><b>AnyAttack: Targeted Adversarial Attacks on Vision-Language Models toward Any Images</b></a><a href="https://github.com/jiamingzhang94/AnyAttack" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2410.05346" target="_blank"><b>Anyattack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-Language Models</b></a><a href="https://github.com/jiamingzhang94/AnyAttack" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Junhong Ye, Xingjun Ma, Yige Li, Yunfan Yang, Yunhao Chen, Jitao Sang, Dit-Yan Yeung<br/>IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Nashville TN, 2025.
 
 <a href="https://arxiv.org/abs/2410.20971" target="_blank"><b>BlueSuffix: Reinforced Blue Teaming for Vision-Language Models Against Jailbreak Attacks</b></a><a href="https://github.com/Vinsonzyh/BlueSuffix" target="_blank"> [Code] </a> <br/>
