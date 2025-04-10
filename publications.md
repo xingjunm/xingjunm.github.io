@@ -381,7 +381,7 @@ International Joint Conference on Artificial Intelligence (<b>IJCAI<b>), Macao, 
 Yunzhe Jia, James Bailey, Ramamohanarao Kotagiri, Christopher Leckie, Xingjun Ma<br/>
 Knowledge and Information Systems (<b>KAIS<b>). (accepted in 2019)
 
-<b>Quality Eva<!-- luation of GANs Using Cross Local Intrinsic Dimensionality</b> 
+<!--<b>Quality Evaluation of GANs Using Cross Local Intrinsic Dimensionality</b> 
 <a href="https://arxiv.org/abs/1905.00643"> [Paper] </a><br/>
 Sukarna Barua, Xingjun Ma, Sarah M. Erfani, Michael E. Houle, James Bailey<br/>
 arxiv preprint. -->
@@ -415,8 +415,17 @@ International Conference on Artificial Intelligence in Education (<b>AIED</b>), 
 Sudanthi Wijewickrema, Bridget Copson, Xingjun Ma, Robert Briggs, James Bailey, Gregor Kennedy, Stephen O'Leary<br/> 
 IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), 2018
 
-
 ### 2017
+
+<a href="https://arxiv.org/abs/1706.10036" target="_blank"><b>Providing Effective Real-time Feedback in Simulation-based Surgical Training</b></a><br/>
+Xingjun Ma, Sudanthi Wijewickrema, Yun Zhou, Shuo Zhou, Stephen O'Leary, James Bailey<br/> 
+International Conference on Medical Image Computing and Computer Assisted Intervention (<b>MICCAI</b>), Quebec City, Canada, 2017.
+
+<a href="https://arxiv.org/pdf/1703.01460.pdf" target="_blank"><b>Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training</b></a><br/>
+Xingjun Ma, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary, James Bailey.<br/>
+International Joint Conference on Artificial Intelligence (<b>IJCAI</b>), Melbourne, Australia, 2017. (<span style="color:red;font-weight:bold">Oral</span>)
+
+<!-- ### 2017
 
 <a href="https://arxiv.org/pdf/1703.01460.pdf" target="_blank"><b>Adversarial Generation of Real-time Feedback with Neural Networks for Simulation-based Training</b></a><br/>
 Xingjun Ma, Sudanthi Wijewickrema, Shuo Zhou, Yun Zhou, Zakaria Mhammedi, Stephen O'Leary, James Bailey.<br/>
@@ -439,9 +448,9 @@ Sudanthi Wijewickremay, Bridget Copson, Yun Zhou, Xingjun Ma, Robert Briggs, Jam
 IEEE International Symposium on Computer-Based Medical Systems (<b>CBMS</b>), Thessaloniki, Greece, 2017
 
 
-<a href="h<!-- ttps://arxiv.org/pdf/1705.04683.pdf">Feedback Techniques in Computer-Based Simulation Training: A Survey</a><br/>
+<a href="https://arxiv.org/pdf/1705.04683.pdf">Feedback Techniques in Computer-Based Simulation Training: A Survey</a><br/>
 Sudanthi Wijewickrema, Xingjun Ma, James Bailey, Gregor Kennedy and Stephen O'Leary<br/>
-arXiv preprint. -->
+arXiv preprint. 
 
 
 ### 2016
@@ -449,5 +458,5 @@ arXiv preprint. -->
 <b>Finding Influentials in Twitter: A Temporal Influence Ranking Model</b> 
 <a href="https://arxiv.org/pdf/1703.01468.pdf" target="_blank"> [Paper] </a><br/>
 Xingjun Ma, Chunping Li, James Bailey, Sudanthi Wijewickrema<br/>
-The Australasian Data Mining Conference (<b>AusDM</b>), Canberra, Australia, 2016
+The Australasian Data Mining Conference (<b>AusDM</b>), Canberra, Australia, 2016 -->
 
