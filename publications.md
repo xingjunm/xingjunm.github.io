@@ -8,11 +8,14 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
+<a href="https://arxiv.org/abs/2505.05528" target="_blank"><b>X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP</b></a><a href="https://github.com/HanxunH/XTransferBench" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/XTransferBench" target="_blank"> [Project] </a> <a href="https://huggingface.co/spaces/hanxunh/XTransferBench-UAP-Linf" target="_blank"> [HuggingFace demo] </a> <br/>
+Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey<br/>International Conference on Machine Learning (<b>ICML</b>), Vancouver, Canada, 2025.
+
 <a href="https://arxiv.org/abs/2411.15210" target="_blank"><b>Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks</b></a><a href="https://opentai.org/VisionSafety" target="_blank"> [Project] </a> <br/>
 Yong Xie, Weijie Zheng, Hanxun Huang, Guangnan Ye, Xingjun Ma<br/>IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Nashville TN, 2025.
 
 
-<a href="https://arxiv.org/abs/2411.13136" target="_blank"><b>TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2411.13136" target="_blank"><b>TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models</b></a><a href="https://github.com/xinwong/TAPT" target="_blank"> [Code] </a> <br/>
 Xin Wang, Kai Chen, Jiaming Zhang, Jingjing Chen, Xingjun Ma<br/>IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Nashville TN, 2025.
 
 
