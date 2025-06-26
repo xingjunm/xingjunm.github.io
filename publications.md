@@ -8,6 +8,16 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
+<a href="https://arxiv.org/abs/2411.00827" target="_blank"><b>IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves</b></a><a href="https://github.com/roywang021/IDEATOR" target="_blank"> [Code] </a> <br/>
+Ruofan Wang, Juncheng Li, Yixu Wang, Bo Wang, Xiaosen Wang, Yan Teng, Yingchun Wang, Xingjun Ma, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
+
+<a href="https://arxiv.org/abs/2501.01425" target="_blank"><b>	
+Free-Form Motion Control: Controlling the 6D Poses of Camera and Objects in Video Generation</b></a><a href="" target="_blank"> [Code] </a> <br/>
+Xincheng Shuai, Henghui Ding, Zhenyuan Qin, Hao Luo, Xingjun Ma, Dacheng Tao<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
+
+<a href="" target="_blank"><b>StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data</b></a><a href="" target="_blank"> [Code] </a> <br/>
+Yixu Wang, Yan Teng, Yingchun Wang, Xingjun Ma<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
+
 <a href="https://arxiv.org/abs/2505.05528" target="_blank"><b>X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP</b></a><a href="https://github.com/HanxunH/XTransferBench" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/XTransferBench" target="_blank"> [Project] </a> <a href="https://huggingface.co/spaces/hanxunh/XTransferBench-UAP-Linf" target="_blank"> [HuggingFace demo] </a> <br/>
 Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey<br/>International Conference on Machine Learning (<b>ICML</b>), Vancouver, Canada, 2025.
 
