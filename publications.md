@@ -7,6 +7,15 @@ subtitle:
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ### 2025
+<a href="" target="_blank"><b>FedAPT: Federated Adversarial Prompt Tuning for Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
+Kun Zhai, Siheng Chen, Xingjun Ma, Yu-Gang Jiang<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
+
+
+<a href="https://arxiv.org/abs/2505.22067" target="_blank"><b>From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving</b></a><a href="https://xinyuxia97.github.io/SERA/" target="_blank"> [Code] </a> <br/>
+Xinyu Xia, Xingjun Ma, Yunfeng hu, Qu Ting, Hong Chen, Xun Gong<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
+
+<a href="https://arxiv.org/abs/2506.20103" target="_blank"><b>BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos</b></a><a href="https://broken-video-detection-datetsets.github.io/Broken-Video-Detection-Datasets.github.io/" target="_blank"> [Code] </a> <br/>
+Jiahao Lin, Weixuan Peng, Bojia Zi, Yifeng Gao, Xianbiao Qi, Xingjun Ma, Yu-Gang Jiang<br/>Dataset Track, ACM Multimedia (MM), Dublin, Ireland, 2025.
 
 <a href="https://arxiv.org/abs/2411.00827" target="_blank"><b>IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves</b></a><a href="https://github.com/roywang021/IDEATOR" target="_blank"> [Code] </a> <br/>
 Ruofan Wang, Juncheng Li, Yixu Wang, Bo Wang, Xiaosen Wang, Yan Teng, Yingchun Wang, Xingjun Ma, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
@@ -68,24 +77,24 @@ Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Van
 
 <a href="https://arxiv.org/abs/2405.16285" target="_blank"><b>ModelLock: Locking Your Model With a Spell</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yifeng Gao, Yuhua Sun, Xingjun Ma, Zuxuan Wu, Yu-Gang Jiang<br/>
-Brave New Ideas (BNI) Track, ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
+Brave New Ideas (BNI) Track, ACM Multimedia (MM), Melbourne, Australia, 2024.
 
 <a href="https://arxiv.org/abs/2405.17894" target="_blank"><b>White-box Multimodal Jailbreaks Against Large Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
-Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang<br/> ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
+Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang<br/> ACM Multimedia (MM), Melbourne, Australia, 2024.
 
 <a href="https://www.arxiv.org/abs/2408.01978" target="_blank"><b>AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning</b></a> <a href="https://github.com/xinwong/AdvQDet" target="_blank"> [Code] </a><br/>
 Xin Wang, Kai Chen, Xingjun Ma, Zhineng Chen, Jingjing Chen, Yu-Gang Jiang<br/>
- ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
+ ACM Multimedia (MM), Melbourne, Australia, 2024.
 
 
 <a href="https://arxiv.org/abs/2310.16400" target="_blank"><b>Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="https://github.com/lutianyi0603/fuse_your_latents" target="_blank"> [Code] </a><br/>
 Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Zuxuan Wu<br/>
- ACM International Conference on Multimedia (<b>ACM MM</b>), Melbourne, Australia, 2024.
+ ACM Multimedia (MM), Melbourne, Australia, 2024.
 
  <!-- <a href="https://openreview.net/forum?id=bb0M2WYeng" target="_blank"><b>
 Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
 Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, Xingjun Ma, Zuxuan Wu<br/>
- ACM International Conference on Multimedia (<b>ACM MM</b>), 2024. -->
+ ACM Multimedia (MM), 2024. -->
 
 
 <a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <a href="https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning" target="_blank"> [Code] </a> <br/>
@@ -137,7 +146,7 @@ International Conference on Learning Representations (<b>ICLR</b>), Kigali, Rwan
 
 <a href="" target="_blank"><b>On the Importance of Spatial Relations for Few-shot Action Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
 Yilun Zhang, Yuqian Fu, Xingjun Ma, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br/>
-ACM International Conference on Multimedia (<b>ACM MM</b>), Ottawa, Canada, 2023.
+ACM Multimedia (MM), Ottawa, Canada, 2023.
 
 <a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b><a href="https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack" target="_blank"> [Code] </a></a><br/>
 Yujing Jiang, Xingjun Ma, Sarah M. Erfani, James Bailey<br/>
@@ -179,7 +188,7 @@ IEEE Symposium on Security and Privacy (<b>Oakland</b>), 2022.
 <a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
 <a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
 Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun<br/>
-ACM International Conference on Multimedia (<b>ACM MM</b>), 2022.
+ACM Multimedia (MM), 2022.
 
 <a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, Xingjun Ma, Chenguang Wang, Xu Sun <br/>
