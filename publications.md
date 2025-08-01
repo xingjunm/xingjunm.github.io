@@ -18,6 +18,9 @@ Xincheng Shuai, Henghui Ding, Zhenyuan Qin, Hao Luo, Xingjun Ma, Dacheng Tao<br/
 <a href="" target="_blank"><b>StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data</b></a><a href="" target="_blank"> [Code] </a> <br/>
 Yixu Wang, Yan Teng, Yingchun Wang, Xingjun Ma<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
 
+<a href="" target="_blank"><b>T2UE: Generating Unlearnable Examples from Text Descriptions</b></a><a href="" target="_blank"> [Code] </a> <br/>
+Xingjun Ma, Hanxun Huang, Tianwei Song, Ye Sun, Yifeng Gao, Yu-Gang Jiang<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
+
 <a href="" target="_blank"><b>FedAPT: Federated Adversarial Prompt Tuning for Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
 Kun Zhai, Siheng Chen, Xingjun Ma, Yu-Gang Jiang<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
 
