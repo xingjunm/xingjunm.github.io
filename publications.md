@@ -7,15 +7,6 @@ subtitle:
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ### 2025
-<a href="" target="_blank"><b>FedAPT: Federated Adversarial Prompt Tuning for Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
-Kun Zhai, Siheng Chen, Xingjun Ma, Yu-Gang Jiang<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
-
-
-<a href="https://arxiv.org/abs/2505.22067" target="_blank"><b>From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving</b></a><a href="https://xinyuxia97.github.io/SERA/" target="_blank"> [Code] </a> <br/>
-Xinyu Xia, Xingjun Ma, Yunfeng hu, Qu Ting, Hong Chen, Xun Gong<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
-
-<a href="https://arxiv.org/abs/2506.20103" target="_blank"><b>BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos</b></a><a href="https://broken-video-detection-datetsets.github.io/Broken-Video-Detection-Datasets.github.io/" target="_blank"> [Code] </a> <br/>
-Jiahao Lin, Weixuan Peng, Bojia Zi, Yifeng Gao, Xianbiao Qi, Xingjun Ma, Yu-Gang Jiang<br/>Dataset Track, ACM Multimedia (MM), Dublin, Ireland, 2025.
 
 <a href="https://arxiv.org/abs/2411.00827" target="_blank"><b>IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves</b></a><a href="https://github.com/roywang021/IDEATOR" target="_blank"> [Code] </a> <br/>
 Ruofan Wang, Juncheng Li, Yixu Wang, Bo Wang, Xiaosen Wang, Yan Teng, Yingchun Wang, Xingjun Ma, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
@@ -26,6 +17,15 @@ Xincheng Shuai, Henghui Ding, Zhenyuan Qin, Hao Luo, Xingjun Ma, Dacheng Tao<br/
 
 <a href="" target="_blank"><b>StolenLoRA: Exploring LoRA Extraction Attacks via Synthetic Data</b></a><a href="" target="_blank"> [Code] </a> <br/>
 Yixu Wang, Yan Teng, Yingchun Wang, Xingjun Ma<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
+
+<a href="" target="_blank"><b>FedAPT: Federated Adversarial Prompt Tuning for Vision-Language Models</b></a><a href="" target="_blank"> [Code] </a> <br/>
+Kun Zhai, Siheng Chen, Xingjun Ma, Yu-Gang Jiang<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
+
+<a href="https://arxiv.org/abs/2505.22067" target="_blank"><b>From Failures to Fixes: LLM-Driven Scenario Repair for Self-Evolving Autonomous Driving</b></a><a href="https://xinyuxia97.github.io/SERA/" target="_blank"> [Code] </a> <br/>
+Xinyu Xia, Xingjun Ma, Yunfeng hu, Qu Ting, Hong Chen, Xun Gong<br/> ACM Multimedia (MM), Dublin, Ireland, 2025.
+
+<a href="https://arxiv.org/abs/2506.20103" target="_blank"><b>BrokenVideos: A Benchmark Dataset for Fine-Grained Artifact Localization in AI-Generated Videos</b></a><a href="https://broken-video-detection-datetsets.github.io/Broken-Video-Detection-Datasets.github.io/" target="_blank"> [Code] </a> <br/>
+Jiahao Lin, Weixuan Peng, Bojia Zi, Yifeng Gao, Xianbiao Qi, Xingjun Ma, Yu-Gang Jiang<br/>Dataset Track, ACM Multimedia (MM), Dublin, Ireland, 2025.
 
 <a href="https://arxiv.org/abs/2505.05528" target="_blank"><b>X-Transfer Attacks: Towards Super Transferable Adversarial Attacks on CLIP</b></a><a href="https://github.com/HanxunH/XTransferBench" target="_blank"> [Code] </a> <a href="https://hanxunh.github.io/XTransferBench" target="_blank"> [Project] </a> <a href="https://huggingface.co/spaces/hanxunh/XTransferBench-UAP-Linf" target="_blank"> [HuggingFace demo] </a> <br/>
 Hanxun Huang, Sarah Erfani, Yige Li, Xingjun Ma, James Bailey<br/>International Conference on Machine Learning (<b>ICML</b>), Vancouver, Canada, 2025.
