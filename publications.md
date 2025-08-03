@@ -8,6 +8,9 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
+<a href="https://arxiv.org/abs/2412.01440" target="_blank"><b>BadPatch: Diffusion-Based Generation of Physical Adversarial Patches</b></a><a href="https://github.com/Wwangb/BadPatch" target="_blank"> [Code] </a> <a href="https://github.com/Wwangb/AdvT-shirt-1K" target="_blank"> [AdvT-shirt-1K Dataset] </a> <br/>
+Zhixiang Wang, Xingjun Ma, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>) Workshop Findings, Honolulu, Hawai'i, 2025.
+
 <a href="https://arxiv.org/abs/2411.00827" target="_blank"><b>IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves</b></a><a href="https://github.com/roywang021/IDEATOR" target="_blank"> [Code] </a> <br/>
 Ruofan Wang, Juncheng Li, Yixu Wang, Bo Wang, Xiaosen Wang, Yan Teng, Yingchun Wang, Xingjun Ma, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>), Honolulu, Hawai'i, 2025.
 
