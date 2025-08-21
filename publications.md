@@ -68,6 +68,16 @@ HoneypotNet: Backdoor Attacks Against Model Extraction</b></a> <br/>
 Yixu Wang, Tianle Gu, Yan Teng, Yingchun Wang, **Xingjun Ma**<br/>
 AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Philadelphia, USA, 2025.
 
+<a href="" target="_blank"><b>	
+MMFair: Fair Learning via Min-Min Optimization</b></a> <br/>
+Kejie Fang, Kun Zhai, **Xingjun Ma**<br/>
+International Conference on Information and Knowledge Management (<b>CIKM</b>), Seoul, Korea, 2025.
+
+<a href="https://openreview.net/forum?id=GZMwvlXG9y" target="_blank"><b>	
+Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning of Large Language Models</b></a> <br/>
+Zezhou Wang, Yaxin Du, **Xingjun Ma**, Yu-Gang Jiang, Zhuzhong Qian, Siheng Chen<br/>
+EMNLP 2025 Findings, Suzhou, China, 2025.
+
 <a href="https://arxiv.org/abs/2307.03411" target="_blank"><b>	
 Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs</b></a> <a href="https://github.com/paperCodeEric/LFH" target="_blank"> [Code] </a> <br/>
 Tiehua Zhang, Yuze Liu, Zhishu Shen, **Xingjun Ma**, Peng Qi, Zhijun Ding, Jiong Jin<br/>
