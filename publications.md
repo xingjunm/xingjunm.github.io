@@ -8,6 +8,10 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
+<a href="https://arxiv.org/abs/2401.15295" target="_blank"><b>Shortcuts Everywhere and Nowhere: Exploring Multi-Trigger Backdoor Attacks</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
+Yige Li, Jiabo He, Hanxun Huang, Jun Sun, **Xingjun Ma**, Yu-Gang Jiang<br/>
+IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>). (accepted in 2025)
+
 <a href="https://arxiv.org/abs/2412.01440" target="_blank"><b>BadPatch: Diffusion-Based Generation of Physical Adversarial Patches</b></a><a href="https://github.com/Wwangb/BadPatch" target="_blank"> [Code] </a> <a href="https://github.com/Wwangb/AdvT-shirt-1K" target="_blank"> [AdvT-shirt-1K Dataset] </a> <br/>
 Zhixiang Wang, **Xingjun Ma**, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>) Workshop Findings, Honolulu, Hawai'i, 2025.
 
