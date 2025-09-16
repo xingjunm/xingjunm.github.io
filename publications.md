@@ -8,9 +8,13 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
+<a href="https://arxiv.org/abs/2502.05206" target="_blank"><b>Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
+**Xingjun Ma**, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Yutao Wu, Jiaming Zhang, Xiang Zheng, Yang Bai, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Xudong Han, Haonan Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Tim Baldwin, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang<br/>
+Foundations and Trends® in Privacy and Security, 2025.
+
 <a href="https://arxiv.org/abs/2401.15295" target="_blank"><b>Shortcuts Everywhere and Nowhere: Exploring Multi-Trigger Backdoor Attacks</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
 Yige Li, Jiabo He, Hanxun Huang, Jun Sun, **Xingjun Ma**, Yu-Gang Jiang<br/>
-IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>). (accepted in 2025)
+IEEE Transactions on Dependable and Secure Computing (<b>TDSC</b>), 2025.
 
 <a href="https://arxiv.org/abs/2412.01440" target="_blank"><b>BadPatch: Diffusion-Based Generation of Physical Adversarial Patches</b></a><a href="https://github.com/Wwangb/BadPatch" target="_blank"> [Code] </a> <a href="https://github.com/Wwangb/AdvT-shirt-1K" target="_blank"> [AdvT-shirt-1K Dataset] </a> <br/>
 Zhixiang Wang, **Xingjun Ma**, Yu-Gang Jiang<br/>International Conference on Computer Vision (<b>ICCV</b>) Workshop Findings, Honolulu, Hawai'i, 2025.
