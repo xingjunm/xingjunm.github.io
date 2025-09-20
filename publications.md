@@ -12,7 +12,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 Yige Li, Hanxun Huang, Yunhan Zhao, **Xingjun Ma**, Jun Sun<br/>
 Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
 
-<a href="https://arxiv.org/abs/2505.11926" target="_blank"><b>SafeVid: Toward Safety Aligned Video Large Multimodal Models</b></a> <br/>
+<a href="https://arxiv.org/abs/2505.11926" target="_blank"><b>SafeVid: Toward Safety Aligned Video Large Multimodal Models</b></a> <a href="https://huggingface.co/datasets/yxwang/SafeVid-350K" target="_blank"> [Dataset] </a> <br/>
 Yixu Wang, Jiaxin Song, Yifeng Gao, Xin Wang, Yang Yao, Yan Teng, **Xingjun Ma**, Yingchun Wang, Yu-Gang Jiang<br/>
 Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
 
