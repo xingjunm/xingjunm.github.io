@@ -8,9 +8,30 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2025
 
+<a href="https://arxiv.org/abs/2408.12798" target="_blank"><b>BackdoorLLM: A Comprehensive Benchmark for Backdoor Attacks and Defenses on Large Language Models</b></a> <a href="https://github.com/bboylyg/BackdoorLLM" target="_blank"> [Code] </a> <br/>
+Yige Li, Hanxun Huang, Yunhan Zhao, **Xingjun Ma**, Jun Sun<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
+
+<a href="https://arxiv.org/abs/2505.11926" target="_blank"><b>SafeVid: Toward Safety Aligned Video Large Multimodal Models</b></a> <br/>
+Yixu Wang, Jiaxin Song, Yifeng Gao, Xin Wang, Yang Yao, Yan Teng, **Xingjun Ma**, Yingchun Wang, Yu-Gang Jiang<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
+
+<a href="https://arxiv.org/pdf/2504.06263" target="_blank"><b>	
+OmniSVG: A Unified Scalable Vector Graphics Generation Model</b></a> <a href="https://github.com/OmniSVG/OmniSVG" target="_blank"> [Code] </a> <a href="https://omnisvg.github.io/" target="_blank"> [Project Page] </a> <a href="https://huggingface.co/OmniSVG" target="_blank"> [Hugging Face] </a><br/>
+Yiying Yang, Wei Cheng, Sijin Chen, Xianfang Zeng, Fukun Yin, Jiaxu Zhang, Liao Wang, Gang YU, **Xingjun Ma**, Yu-Gang Jiang<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
+
+<a href="https://arxiv.org/abs/2505.18812" target="_blank"><b>SAMA: Towards Multi-Turn Referential Grounded Video Chat with Large Language Models</b></a> <br/>
+Ye Sun, Hao Zhang, Henghui Ding, Tiehua Zhang, **Xingjun Ma**, Yu-Gang Jiang<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
+
+<a href="https://arxiv.org/abs/2505.19610" target="_blank"><b>JailBound: Jailbreaking Internal Safety Boundaries of Vision-Language Models</b></a> <br/>
+Jiaxin Song, Yixu Wang, Jie Li, Xuan Tong, Rui Yu, Yan Teng, **Xingjun Ma**, Yingchun Wang<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
+
+
 <a href="https://arxiv.org/abs/2502.05206" target="_blank"><b>Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
-**Xingjun Ma**, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Yutao Wu, Jiaming Zhang, Xiang Zheng, Yang Bai, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Xudong Han, Haonan Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Tim Baldwin, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang<br/>
-Foundations and Trends® in Privacy and Security, 2025.
+**Xingjun Ma**, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Yutao Wu, Jiaming Zhang, Xiang Zheng, Yang Bai, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Xudong Han, Haonan Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Tim Baldwin, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang. Foundations and Trends® in Privacy and Security, 2025.
 
 <a href="https://arxiv.org/abs/2401.15295" target="_blank"><b>Shortcuts Everywhere and Nowhere: Exploring Multi-Trigger Backdoor Attacks</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
 Yige Li, Jiabo He, Hanxun Huang, Jun Sun, **Xingjun Ma**, Yu-Gang Jiang<br/>
