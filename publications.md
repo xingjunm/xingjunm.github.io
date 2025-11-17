@@ -43,7 +43,7 @@ Jiaxin Song, Yixu Wang, Jie Li, Xuan Tong, Rui Yu, Yan Teng, **Xingjun Ma**, Yin
 Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San Diego, USA, 2025.
 
 
-<a href="https://arxiv.org/abs/2502.05206" target="_blank"><b>Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
+<a href="https://arxiv.org/abs/2502.05206" target="_blank"><b>Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</b></a><a href="https://github.com/xingjunm/Awesome-Large-Model-Safety" target="_blank"> [Code] </a><br/>
 **Xingjun Ma**, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Yutao Wu, Jiaming Zhang, Xiang Zheng, Yang Bai, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Xudong Han, Haonan Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Tim Baldwin, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang. Foundations and Trends® in Privacy and Security, 2025.
 
 <a href="https://arxiv.org/abs/2401.15295" target="_blank"><b>Shortcuts Everywhere and Nowhere: Exploring Multi-Trigger Backdoor Attacks</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
