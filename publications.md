@@ -44,7 +44,7 @@ Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), San
 
 
 <a href="https://arxiv.org/abs/2502.05206" target="_blank"><b>Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety</b></a><a href="https://github.com/xingjunm/Awesome-Large-Model-Safety" target="_blank"> [Code] </a><br/>
-**Xingjun Ma**, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Yutao Wu, Jiaming Zhang, Xiang Zheng, Yang Bai, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Xudong Han, Haonan Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Tim Baldwin, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang. Foundations and Trends® in Privacy and Security, 2025.
+**Xingjun Ma**, Yifeng Gao, Yixu Wang, Ruofan Wang, Xin Wang, Ye Sun, Yifan Ding, Hengyuan Xu, Yunhao Chen, Yunhan Zhao, Hanxun Huang, Yige Li, Yutao Wu, Jiaming Zhang, Xiang Zheng, Yang Bai, Zuxuan Wu, Xipeng Qiu, Jingfeng Zhang, Yiming Li, Xudong Han, Haonan Li, Jun Sun, Cong Wang, Jindong Gu, Baoyuan Wu, Siheng Chen, Tianwei Zhang, Yang Liu, Mingming Gong, Tongliang Liu, Shirui Pan, Cihang Xie, Tianyu Pang, Yinpeng Dong, Ruoxi Jia, Yang Zhang, Shiqing Ma, Xiangyu Zhang, Neil Gong, Chaowei Xiao, Sarah Erfani, Tim Baldwin, Bo Li, Masashi Sugiyama, Dacheng Tao, James Bailey, Yu-Gang Jiang. <b>Foundations and Trends® in Privacy and Security</b>, 2025.
 
 <a href="https://arxiv.org/abs/2401.15295" target="_blank"><b>Shortcuts Everywhere and Nowhere: Exploring Multi-Trigger Backdoor Attacks</b></a><a href="https://github.com/bboylyg/Multi-Trigger-Backdoor-Attacks" target="_blank"> [Code] </a><br/>
 Yige Li, Jiabo He, Hanxun Huang, Jun Sun, **Xingjun Ma**, Yu-Gang Jiang<br/>
@@ -118,7 +118,7 @@ International Conference on Information and Knowledge Management (<b>CIKM</b>), 
 <a href="https://openreview.net/forum?id=GZMwvlXG9y" target="_blank"><b>	
 Optimizing Cross-Client Domain Coverage for Federated Instruction Tuning of Large Language Models</b></a> <br/>
 Zezhou Wang, Yaxin Du, **Xingjun Ma**, Yu-Gang Jiang, Zhuzhong Qian, Siheng Chen<br/>
-EMNLP 2025 Findings, Suzhou, China, 2025.
+<b>EMNLP 2025 Findings</b>, Suzhou, China, 2025.
 
 <a href="https://arxiv.org/abs/2307.03411" target="_blank"><b>	
 Learning from Heterogeneity: A Dynamic Learning Framework for Hypergraphs</b></a> <a href="https://github.com/paperCodeEric/LFH" target="_blank"> [Code] </a> <br/>
@@ -135,25 +135,19 @@ Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Van
 
 <a href="https://arxiv.org/abs/2405.16285" target="_blank"><b>ModelLock: Locking Your Model With a Spell</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yifeng Gao, Yuhua Sun, **Xingjun Ma**, Zuxuan Wu, Yu-Gang Jiang<br/>
-Brave New Ideas (BNI) Track, ACM Multimedia (MM), Melbourne, Australia, 2024.
+ACM Multimedia (<b>MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://arxiv.org/abs/2405.17894" target="_blank"><b>White-box Multimodal Jailbreaks Against Large Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
-Ruofan Wang, **Xingjun Ma**, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang<br/> ACM Multimedia (MM), Melbourne, Australia, 2024.
+Ruofan Wang, **Xingjun Ma**, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang<br/> ACM Multimedia (<b>MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://www.arxiv.org/abs/2408.01978" target="_blank"><b>AdvQDet: Detecting Query-Based Adversarial Attacks with Adversarial Contrastive Prompt Tuning</b></a> <a href="https://github.com/xinwong/AdvQDet" target="_blank"> [Code] </a><br/>
 Xin Wang, Kai Chen, **Xingjun Ma**, Zhineng Chen, Jingjing Chen, Yu-Gang Jiang<br/>
- ACM Multimedia (MM), Melbourne, Australia, 2024.
+ ACM Multimedia (<b>MM</b>), Melbourne, Australia, 2024.
 
 
 <a href="https://arxiv.org/abs/2310.16400" target="_blank"><b>Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="https://github.com/lutianyi0603/fuse_your_latents" target="_blank"> [Code] </a><br/>
 Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, **Xingjun Ma**, Zuxuan Wu<br/>
- ACM Multimedia (MM), Melbourne, Australia, 2024.
-
- <!-- <a href="https://openreview.net/forum?id=bb0M2WYeng" target="_blank"><b>
-Fuse Your Latents: Video Editing with Multi-source Latent Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a><br/>
-Tianyi Lu, Xing Zhang, Jiaxi Gu, Hang Xu, Renjing Pei, Songcen Xu, **Xingjun Ma**, Zuxuan Wu<br/>
- ACM Multimedia (MM), 2024. -->
-
+ ACM Multimedia (<b>MM</b>), Melbourne, Australia, 2024.
 
 <a href="https://arxiv.org/abs/2311.11261" target="_blank"><b>Adversarial Prompt Tuning for Vision-Language Models</b></a> <a href="https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, **Xingjun Ma**, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang<br/>
@@ -204,7 +198,7 @@ International Conference on Learning Representations (<b>ICLR</b>), Kigali, Rwan
 
 <a href="" target="_blank"><b>On the Importance of Spatial Relations for Few-shot Action Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
 Yilun Zhang, Yuqian Fu, **Xingjun Ma**, Lizhe Qi, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang<br/>
-ACM Multimedia (MM), Ottawa, Canada, 2023.
+ACM Multimedia (<b>MM</b>), Ottawa, Canada, 2023.
 
 <a href="https://arxiv.org/abs/2211.07915" target="_blank"><b>Backdoor Attacks on Time Series: A Generative Approach</b><a href="https://github.com/yujingmarkjiang/Time_Series_Backdoor_Attack" target="_blank"> [Code] </a></a><br/>
 Yujing Jiang, **Xingjun Ma**, Sarah M. Erfani, James Bailey<br/>
@@ -212,11 +206,11 @@ IEEE Conference on Secure and Trustworthy Machine Learning (<b>SaTML</b>), 2023.
 
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306437923000819" target="_blank"><b>Relationships between tail entropies and local intrinsic dimensionality and their use for estimation and feature representation</b></a> <br/>
 James Bailey, Michael E. Houle, **Xingjun Ma**<br/>
-Information Systems (2023): 102245.
+<b>Information Systems</b> (2023): 102245.
 
 <a href="https://arxiv.org/abs/2006.13726.pdf" target="_blank"><b>Imbalanced Gradients: A Subtle Cause of Overestimated Adversarial Robustness</b></a><a href="https://github.com/HanxunH/MDAttack" target="_blank"> [Code] </a><br/>
 **Xingjun Ma**<sup>*</sup>, Linxi Jiang<sup>*</sup>, Hanxun Huang, Zejia Weng, James Bailey, Yu-Gang Jiang<br/> 
-Machine Learning (2023): 1-26.
+<b>Machine Learning</b> (2023): 1-26.
 
 <a href="https://ieeexplore.ieee.org/abstract/document/10237306" target="_blank"><b>Query-efficient Black-box Adversarial Attacks on Automatic Speech Recognition</b></a><a href="" target="_blank"> [Code] </a><br/>
 Chuxuan Tong, Xi Zheng, Jianhua Li, **Xingjun Ma**, Longxiang Gao, Yong Xiang<br/> 
@@ -246,7 +240,7 @@ IEEE Symposium on Security and Privacy (<b>Oakland</b>), 2022.
 <a href="https://arxiv.org/abs/2207.05641" target="_blank"><b>Backdoor Attacks on Crowd Counting</b></a>
 <a href="https://github.com/Nathangitlab/Backdoor-Attacks-on-Crowd-Counting" target="_blank"> [Code] </a><br/>
 Yuhua Sun, Tailai Zhang, **Xingjun Ma**, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, Lichao Sun<br/>
-ACM Multimedia (MM), 2022.
+ACM Multimedia (<b>MM</b>), 2022.
 
 <a href="https://arxiv.org/abs/2210.09545" target="_blank"><b>Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models</b></a><br/>
 Zhiyuan Zhang, Lingjuan Lyu, **Xingjun Ma**, Chenguang Wang, Xu Sun <br/>
