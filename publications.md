@@ -8,7 +8,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2026
 
-<a href="https://arxiv.org/abs/2510.22242" target="_blank"><b>PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2510.22242" target="_blank"><b> PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yutao Wu, Xiao Liu, Yunhao Feng, Jiale Ding, **Xingjun Ma**<br/>
 The Web Conference (<b>WWW</b>), Dubai, United Arab Emirates, 2026.
 
@@ -16,8 +16,7 @@ The Web Conference (<b>WWW</b>), Dubai, United Arab Emirates, 2026.
 Yunhao Chen, Shujie Wang, Difan Zou, **Xingjun Ma**<br/>
 Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
 
-<a href="https://openreview.net/forum?id=xzEaGNcHld&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2026%2FConference%2FAuthors%23your-submissions)" target="_blank"><b>	
-Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+<a href="https://arxiv.org/abs/2512.16244" target="_blank"><b> Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Xueqi Ma, **Xingjun Ma**, Sarah Erfani, Danilo Mandic, James Bailey<br/>
 Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
 
