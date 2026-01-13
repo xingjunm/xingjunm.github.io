@@ -1,16 +1,20 @@
 name: Beautiful Jekyll CI
 on: [push, pull_request]
+
 jobs:
   build:
     name: Build Jekyll
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Build the site in the jekyll/builder container
         run: |
           docker run --rm \
+            --user $(id -u):$(id -g) \
             -v "$PWD":/srv/jekyll \
             -v "$PWD/vendor/bundle":/usr/local/bundle \
             jekyll/builder:4 \
-            bash -lc "bundle install && bundle exec jekyll build"
+            bash -lc "git config --global --add safe.directory /srv/jekyll && bundle install && bundle exec jekyll build"
+
 
