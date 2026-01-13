@@ -11,6 +11,6 @@ jobs:
           docker run --rm \
             -v "$PWD":/srv/jekyll \
             -v "$PWD/vendor/bundle":/usr/local/bundle \
-            jekyll/builder:4.3 \
+            jekyll/builder:4 \
             bash -lc "bundle install && bundle exec jekyll build"
 
