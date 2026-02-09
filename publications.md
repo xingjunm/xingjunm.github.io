@@ -7,6 +7,21 @@ subtitle:
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ### 2026
+<a href="https://arxiv.org/abs/2510.14975" target="_blank"><b> WithAnyone: Towards controllable and id consistent image generation</b></a> <a href="https://github.com/Doby-Xu/WithAnyone" target="_blank"> [Code] </a> <a href="https://doby-xu.github.io/WithAnyone/" target="_blank"> [Project] </a> <br/> 
+Hengyuan Xu, Wei Cheng, Peng Xing, Yixiao Fang, Shuhan Wu, Rui Wang, Xianfang Zeng, Daxin Jiang, Gang Yu, **Xingjun Ma**, Yu-Gang Jiang<br/>
+International Conference on Learning Representations (<b>ICLR</b>), Rio de Janeiro, Brazil, 2026.
+
+<a href="https://arxiv.org/abs/2602.01025" target="_blank"><b> Toward Universal and Transferable Jailbreak Attacks on Vision-Language Models</b></a> <a href="https://github.com/kaiyuanCui/UltraBreak" target="_blank"> [Code] </a> <br/> 
+Kaiyuan Cui, Yige Li, Yutao Wu, **Xingjun Ma**, Sarah Erfani, Christopher Leckie, Hanxun Huang<br/>
+International Conference on Learning Representations (<b>ICLR</b>), Rio de Janeiro, Brazil, 2026.
+
+<a href="https://arxiv.org/abs/2506.12706" target="_blank"><b> NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Jiaming Zhang, Xin Wang, **Xingjun Ma**, Lingyu Qiu, Yu-Gang Jiang, Jitao Sang<br/>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026.
+
+<a href="https://arxiv.org/abs/2506.04302" target="_blank"><b> OpenRedRL: A Light-Weight Benchmark for Reinforcement Fine-Tuning-Based Red Teaming</b></a> <a href="https://github.com/x-zheng16/RedRFT" target="_blank"> [Code] </a> <br/>
+Xiang Zheng, **Xingjun Ma**, Wei-Bin Lee, Cong Wang<br/>
+Frontiers of Computer Science (<b>FCS</b>), 2026.
 
 <a href="https://arxiv.org/abs/2510.22242" target="_blank"><b> PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yutao Wu, Xiao Liu, Yunhao Feng, Jiale Ding, **Xingjun Ma**<br/>
