@@ -7,6 +7,17 @@ subtitle:
 The full list of publications can be found on <a href="https://scholar.google.com.au/citations?user=XQViiyYAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ### 2026
+<a href="" target="_blank"><b>	
+OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens</b></a> <a href="" target="_blank"> [Code] </a> <a href="" target="_blank"> [Project Page] </a> <a href="" target="_blank"> [Hugging Face] </a><br/>
+Yiying Yang, Wei Cheng, Sijin Chen, Honghao Fu, Xianfang Zeng, Yujun Cai, Gang YU, **Xingjun Ma**<br/>
+IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Denver CO, USA, 2026.
+
+<a href="https://arxiv.org/abs/2506.10047" target="_blank"><b>	
+GenBreak: Red Teaming Text-to-Image Generation Using Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Zilong Wang, Xiang Zheng, Xiaosen Wang, Bo Wang, **Xingjun Ma**<br/>
+IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Denver CO, USA, 2026.
+
+
 <a href="https://arxiv.org/abs/2510.14975" target="_blank"><b> WithAnyone: Towards controllable and id consistent image generation</b></a> <a href="https://github.com/Doby-Xu/WithAnyone" target="_blank"> [Code] </a> <a href="https://doby-xu.github.io/WithAnyone/" target="_blank"> [Project] </a> <br/> 
 Hengyuan Xu, Wei Cheng, Peng Xing, Yixiao Fang, Shuhan Wu, Rui Wang, Xianfang Zeng, Daxin Jiang, Gang Yu, **Xingjun Ma**, Yu-Gang Jiang<br/>
 International Conference on Learning Representations (<b>ICLR</b>), Rio de Janeiro, Brazil, 2026.
@@ -17,6 +28,10 @@ International Conference on Learning Representations (<b>ICLR</b>), Rio de Janei
 
 <a href="https://arxiv.org/abs/2506.12706" target="_blank"><b> NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xin Wang, **Xingjun Ma**, Lingyu Qiu, Yu-Gang Jiang, Jitao Sang<br/>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026.
+
+<a href="https://arxiv.org/abs/2410.08950" target="_blank"><b> On the Adversarial Transferability of Generalized "Skip Connections"</b></a> <a href="https://github.com/mo666666/SGM" target="_blank"> [Code] </a> <br/>
+Yisen Wang, Yichuan Mo, Dongxian Wu, Mingjie Li, **Xingjun Ma**, Zhouchen Lin<br/>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026.
 
 <a href="https://arxiv.org/abs/2506.04302" target="_blank"><b> OpenRedRL: A Light-Weight Benchmark for Reinforcement Fine-Tuning-Based Red Teaming</b></a> <a href="https://github.com/x-zheng16/RedRFT" target="_blank"> [Code] </a> <br/>
