@@ -11,19 +11,19 @@ The full list of publications can be found on <a href="https://scholar.google.co
 <a href="https://arxiv.org/pdf/2601.04566" target="_blank"><b>	
 BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents </b></a> <a href="https://github.com/Yunhao-Feng/BackdoorAgent" target="_blank"> [Code] </a> 
 Yunhao Feng, Yige Li, Yutao Wu, Yingshui Tan, Yanming Guo, Yifan Ding, Kun Zhai, **Xingjun Ma**, Yu-Gang Jiang<br/>
-Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. [Findings]
+Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. **[Findings]**
 
 
 <a href="https://arxiv.org/abs/2509.26100" target="_blank"><b>	
 AgenticEval: Toward Agentic and Self-Evolving Safety Evaluation of Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> 
 Yixu Wang, Xin Wang, Yang Yao, Xinyuan Li, Xibang Yang, Yan Teng, **Xingjun Ma**, Yingchun Wang<br/>
-Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. [Findings]
+Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. **[Findings]**
 
 
 <a href="" target="_blank"><b>	
 Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with Constraints</b></a> <a href="" target="_blank"> [Code] </a> 
 Zhenyun Yin, Shujie Wang, Xuhong Wang, **Xingjun Ma**, Yingchun Wang<br/>
-Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. [Main]
+Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. **[Main]**
 
 
 <a href="" target="_blank"><b>	
