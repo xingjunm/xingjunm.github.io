@@ -8,6 +8,42 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2026
 
+<a href="" target="_blank"><b>	
+FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yifeng Gao, Yifan Ding, Li Wang, Feida Huang, Ye Sun, Yixu Wang, Xin Wang, Yutao Wu, Hanxun Huang, Yunhao Feng, Yingshui Tan, **Xingjun Ma**, Yu-Gang Jiang<br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
+<a href="https://arxiv.org/abs/2601.21233" target="_blank"><b>	
+Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs
+</b></a> <a href="https://github.com/x-zheng16/JustAsk" target="_blank"> [Code] </a> <a href="https://x-zheng16.github.io/System-Prompt-Open/" target="_blank"> [Project] </a> <br/>
+Xiang Zheng, Yutao Wu, Hanxun Huang, Yige Li, **Xingjun Ma**, Bo Li, Yu-Gang Jiang, Cong Wang<br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
+<a href="https://arxiv.org/abs/2602.12984" target="_blank"><b>	
+SciAgentGym: Benchmarking Multi-Step Scientific Tool-Use in LLM Agents</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yujiong Shen, Yajie Yang, Zhiheng Xi, Binze Hu, Huayu Sha, Qiyuan Peng, Jiazheng Zhang, Junlin Shang, Jixuan Huang, Yutao Fan, Jingqi Tong, Shihan Dou, Ming Zhang, LEI BAI, Zhenfei Yin, Tao Gui, **Xingjun Ma**, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang <br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
+<a href="" target="_blank"><b>	
+AudioMosaic: Contrastive Masked Audio Representation Learning</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Hanxun Huang, Qizhou Wang, **Xingjun Ma**, Cihang Xie, Christopher Leckie, Sarah Monazam Erfani<br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
+<a href="" target="_blank"><b>	
+Towards Context-Invariant Safety Alignment for Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yixu Wang, Yang Yao, Xin Wang, Yifeng Gao, Yan Teng, **Xingjun Ma**, Yingchun Wang<br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
+<a href="" target="_blank"><b>	
+MESA: Improving MoE Safety Alignment via Decentralized Expertise</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yitong Sun, Yao Huang, Teng Li, Ranjie Duan, Yichi Zhang, **Xingjun Ma**, Hui Xue, Xingxing Wei<br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
+<a href="https://arxiv.org/abs/2603.01544" target="_blank"><b>	
+RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymmetry</b></a> <a href="https://github.com/dongdongunique/RA-Det" target="_blank"> [Code] </a> <br/>
+Xinchang Wang, Yunhao Chen, Yuechen Zhang, Congcong Bian, Zihao Guo, **Xingjun Ma**, Hui Li <br/>
+International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
+
 <a href="https://arxiv.org/pdf/2601.04566" target="_blank"><b>	
 BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents </b></a> <a href="https://github.com/Yunhao-Feng/BackdoorAgent" target="_blank"> [Code] </a> <br/>
 Yunhao Feng, Yige Li, Yutao Wu, Yingshui Tan, Yanming Guo, Yifan Ding, Kun Zhai, **Xingjun Ma**, Yu-Gang Jiang<br/>
@@ -69,6 +105,17 @@ Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026
 <a href="https://arxiv.org/abs/2512.16244" target="_blank"><b> Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Xueqi Ma, **Xingjun Ma**, Sarah Erfani, Danilo Mandic, James Bailey<br/>
 Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
+
+
+<a href="https://arxiv.org/abs/2509.12724" target="_blank"><b>	
+Defense-to-attack: Bypassing weak defenses enables stronger jailbreaks in Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yunhan Zhao, Xiang Zheng, **Xingjun Ma** <br/>
+<b>Pattern Recognition</b>, 2026.
+
+<a href="https://openreview.net/forum?id=ursw3nWq5K" target="_blank"><b>	
+Learnable Coreset Selection for Graph Active Learning</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Xueqi Ma, **Xingjun Ma**, Sarah Erfani, James Bailey <br/>
+Transactions on Machine Learning Research (<b>TMLR</b>), 2026.
 
 
 ### 2025
