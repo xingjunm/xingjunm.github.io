@@ -8,6 +8,11 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2026
 
+<a href="https://openreview.net/forum?id=bqgninCuh4#discussion" target="_blank"><b>	
+Perturbation Effects on Robustness and Individual Fairness</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Xuran Li, Hao Xue, Peng Wu, Xingjun Ma, Zhen Zhang, Huaming Chen, Flora D. Salim<br/>
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), Jeju Island, South Korea, 2026.
+
 <a href="" target="_blank"><b>	
 FakeWorld 1.0: An Omni-modal Benchmark for Fake Media and Content</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yifeng Gao, Yifan Ding, Li Wang, Feida Huang, Ye Sun, Yixu Wang, Xin Wang, Yutao Wu, Hanxun Huang, Yunhao Feng, Yingshui Tan, **Xingjun Ma**, Yu-Gang Jiang<br/>
@@ -82,6 +87,18 @@ International Conference on Learning Representations (<b>ICLR</b>), Rio de Janei
 Kaiyuan Cui, Yige Li, Yutao Wu, **Xingjun Ma**, Sarah Erfani, Christopher Leckie, Hanxun Huang<br/>
 International Conference on Learning Representations (<b>ICLR</b>), Rio de Janeiro, Brazil, 2026.
 
+<a href="https://arxiv.org/abs/2410.02467" target="_blank"><b>SIDE: Surrogate Conditional Data Extraction from Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yunhao Chen, Shujie Wang, Difan Zou, **Xingjun Ma**<br/>
+Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
+
+<a href="https://arxiv.org/abs/2510.22242" target="_blank"><b> PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Yutao Wu, Xiao Liu, Yunhao Feng, Jiale Ding, **Xingjun Ma**<br/>
+The Web Conference (<b>WWW</b>), Dubai, United Arab Emirates, 2026.
+
+<a href="https://arxiv.org/abs/2512.16244" target="_blank"><b> Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Xueqi Ma, **Xingjun Ma**, Sarah Erfani, Danilo Mandic, James Bailey<br/>
+Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
+
 <a href="https://arxiv.org/abs/2506.12706" target="_blank"><b> NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xin Wang, **Xingjun Ma**, Lingyu Qiu, Yu-Gang Jiang, Jitao Sang<br/>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026.
@@ -93,19 +110,6 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2
 <a href="https://arxiv.org/abs/2506.04302" target="_blank"><b> OpenRedRL: A Light-Weight Benchmark for Reinforcement Fine-Tuning-Based Red Teaming</b></a> <a href="https://github.com/x-zheng16/RedRFT" target="_blank"> [Code] </a> <br/>
 Xiang Zheng, **Xingjun Ma**, Wei-Bin Lee, Cong Wang<br/>
 Frontiers of Computer Science (<b>FCS</b>), 2026.
-
-<a href="https://arxiv.org/abs/2510.22242" target="_blank"><b> PaperAsk: A Benchmark for Reliability Evaluation of LLMs in Paper Search and Reading</b></a> <a href="" target="_blank"> [Code] </a> <br/>
-Yutao Wu, Xiao Liu, Yunhao Feng, Jiale Ding, **Xingjun Ma**<br/>
-The Web Conference (<b>WWW</b>), Dubai, United Arab Emirates, 2026.
-
-<a href="https://arxiv.org/abs/2410.02467" target="_blank"><b>SIDE: Surrogate Conditional Data Extraction from Diffusion Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
-Yunhao Chen, Shujie Wang, Difan Zou, **Xingjun Ma**<br/>
-Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
-
-<a href="https://arxiv.org/abs/2512.16244" target="_blank"><b> Coarse-to-Fine Open-Set Graph Node Classification with Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
-Xueqi Ma, **Xingjun Ma**, Sarah Erfani, Danilo Mandic, James Bailey<br/>
-Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
-
 
 <a href="https://arxiv.org/abs/2509.12724" target="_blank"><b>	
 Defense-to-attack: Bypassing weak defenses enables stronger jailbreaks in Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
