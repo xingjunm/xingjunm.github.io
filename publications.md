@@ -10,7 +10,7 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 <a href="https://openreview.net/forum?id=bqgninCuh4#discussion" target="_blank"><b>	
 Perturbation Effects on Robustness and Individual Fairness</b></a> <a href="" target="_blank"> [Code] </a> <br/>
-Xuran Li, Hao Xue, Peng Wu, Xingjun Ma, Zhen Zhang, Huaming Chen, Flora D. Salim<br/>
+Xuran Li, Hao Xue, Peng Wu, **Xingjun Ma**, Zhen Zhang, Huaming Chen, Flora D. Salim<br/>
 International Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), Jeju Island, South Korea, 2026.
 
 <a href="" target="_blank"><b>	
