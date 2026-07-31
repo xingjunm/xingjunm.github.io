@@ -8,6 +8,34 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2026
 
+<a href="https://arxiv.org/abs/2604.02947" target="_blank"><b>	
+AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
+</b></a> <a href="https://github.com/Yunhao-Feng/AgentHazard" target="_blank"> [Code] </a> <br/>
+Yifan Ding, Yunhao Feng, Yifeng Gao, Yige Li, Yutao Wu, Yanming Guo, Yingshui Tan, Kun Zhai, **Xingjun Ma**
+<br/>
+ACM Multimedia (<b>MM</b>), Rio de Janeiro, Brazil, 2026.
+
+<a href="https://arxiv.org/abs/2503.06223" target="_blank"><b>	
+RedDiffuser: Auditing Multimodal Safety Failures in Vision-Language Models via Reinforced Diffusion
+</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Ruofan Wang, **Xingjun Ma**
+<br/>
+ACM Multimedia (<b>MM</b>), Rio de Janeiro, Brazil, 2026.
+
+<a href="https://arxiv.org/abs/2511.18921" target="_blank"><b>	
+BackdoorVLM: A Benchmark for Backdoor Attacks and Defenses on Vision-Language Models
+</b></a> <a href="https://github.com/bin015/BackdoorVLM" target="_blank"> [Code] </a> <br/>
+Juncheng Li, Yige Li, Hanxun Huang, Yunhao Chen, Xin Wang, Yixu Wang, **Xingjun Ma**, Yu-Gang Jiang
+<br/>
+ACM Multimedia (<b>MM</b>), Rio de Janeiro, Brazil, 2026.
+
+<a href="https://arxiv.org/abs/2605.15203" target="_blank"><b>	
+Agent4POI: Agentic context-conditioned affordance reasoning for Multimodal Point-of-Interest Recommendation
+</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Jinze Wang, Yangchen Zeng, Tiehua Zhang, Lu Zhang, Yuze Liu, Yongchao Liu, **Xingjun Ma**, Zhu Sun
+<br/>
+ACM Multimedia (<b>MM</b>), Rio de Janeiro, Brazil, 2026.
+
 <a href="https://arxiv.org/abs/2510.10932" target="_blank"><b>	
 DropVLA: An Action-Level Backdoor Attack on Vision-Language-Action Models
 </b></a> <a href="" target="_blank"> [Code] </a> <br/>
@@ -109,6 +137,10 @@ Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026
 <a href="https://arxiv.org/abs/2506.12706" target="_blank"><b> NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xin Wang, **Xingjun Ma**, Lingyu Qiu, Yu-Gang Jiang, Jitao Sang<br/>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026.
+
+<a href="https://arxiv.org/abs/2404.11888" target="_blank"><b> FedEGG: Federated Learning with Explicit Global Guidance</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Kun Zhai, Yifeng Gao, Yunhao Feng, Wei Gao, **Xingjun Ma**, Yu-Gang Jiang<br/>
+Frontiers of Computer Science (<b>FCS</b>), 2026.
 
 <a href="https://arxiv.org/abs/2410.08950" target="_blank"><b> On the Adversarial Transferability of Generalized "Skip Connections"</b></a> <a href="https://github.com/mo666666/SGM" target="_blank"> [Code] </a> <br/>
 Yisen Wang, Yichuan Mo, Dongxian Wu, Mingjie Li, **Xingjun Ma**, Zhouchen Lin<br/>
