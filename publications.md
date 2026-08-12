@@ -69,7 +69,7 @@ AudioMosaic: Contrastive Masked Audio Representation Learning</b></a> <a href=""
 Hanxun Huang, Qizhou Wang, **Xingjun Ma**, Cihang Xie, Christopher Leckie, Sarah Monazam Erfani<br/>
 International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
 
-<a href="" target="_blank"><b>	
+<a href="https://arxiv.org/abs/2605.20994" target="_blank"><b>	
 Towards Context-Invariant Safety Alignment for Large Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Yixu Wang, Yang Yao, Xin Wang, Yifeng Gao, Yan Teng, **Xingjun Ma**, Yingchun Wang<br/>
 International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
@@ -84,7 +84,7 @@ RA-Det: Towards Universal Detection of AI-Generated Images via Robustness Asymme
 Xinchang Wang, Yunhao Chen, Yuechen Zhang, Congcong Bian, Zihao Guo, **Xingjun Ma**, Hui Li <br/>
 International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, 2026.
 
-<a href="" target="_blank"><b>	
+<a href="https://aclanthology.org/2026.acl-long.199/" target="_blank"><b>	
 Deliberative Searcher: Improving LLM Reliability via Reinforcement Learning with Constraints</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Zhenyun Yin, Shujie Wang, Xuhong Wang, **Xingjun Ma**, Yingchun Wang<br/>
 Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. **[Main, Oral]**
@@ -102,7 +102,7 @@ Yixu Wang, Xin Wang, Yang Yao, Xinyuan Li, Xibang Yang, Yan Teng, **Xingjun Ma**
 Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), San Diego, California, USA, 2026. **[Findings]**
 
 
-<a href="" target="_blank"><b>	
+<a href="https://arxiv.org/abs/2603.02138" target="_blank"><b>	
 OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens</b></a> <a href="https://github.com/OpenVGLab/OmniLottie" target="_blank"> [Code] </a> <a href="https://openvglab.github.io/OmniLottie/" target="_blank"> [Project Page] </a> <a href="https://huggingface.co/papers/2603.02138" target="_blank"> [Hugging Face] </a><br/>
 Yiying Yang, Wei Cheng, Sijin Chen, Honghao Fu, Xianfang Zeng, Yujun Cai, Gang YU, **Xingjun Ma**<br/>
 IEEE/CVF Computer Vision and Pattern Recognition Conference (<b>CVPR</b>), Denver CO, USA, 2026.
@@ -134,6 +134,12 @@ The Web Conference (<b>WWW</b>), Dubai, United Arab Emirates, 2026.
 Xueqi Ma, **Xingjun Ma**, Sarah Erfani, Danilo Mandic, James Bailey<br/>
 Annual AAAI Conference on Artificial Intelligence (<b>AAAI</b>), Singapore, 2026.
 
+<a href="https://arxiv.org/abs/2510.08012" target="_blank"><b>
+Do We Really Need SFT? Prompt-as-Policy over Knowledge Graphs for Cold-start Next POI Recommendation</b></a> <br/>
+Jinze Wang, Lu Zhang, Tiehua Zhang, Yiyang Cui, Zhishu Shen, Yuze Liu, **Xingjun Ma**, Jiong Jin <br/>
+ACM International Conference on Information and Knowledge Management (<b>CIKM</b>), Rome, Italy, 2026.
+
+
 <a href="https://arxiv.org/abs/2506.12706" target="_blank"><b> NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Jiaming Zhang, Xin Wang, **Xingjun Ma**, Lingyu Qiu, Yu-Gang Jiang, Jitao Sang<br/>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (<b>TPAMI</b>), 2026.
@@ -155,7 +161,7 @@ Defense-to-attack: Bypassing weak defenses enables stronger jailbreaks in Vision
 Yunhan Zhao, Xiang Zheng, **Xingjun Ma** <br/>
 <b>Pattern Recognition</b>, 2026.
 
-<a href="https://openreview.net/forum?id=ursw3nWq5K" target="_blank"><b>	
+<a href="https://openreview.net/forum?id=ursw3nWq5K" target="_blank"><b>
 Learnable Coreset Selection for Graph Active Learning</b></a> <a href="" target="_blank"> [Code] </a> <br/>
 Xueqi Ma, **Xingjun Ma**, Sarah Erfani, James Bailey <br/>
 Transactions on Machine Learning Research (<b>TMLR</b>), 2026.
