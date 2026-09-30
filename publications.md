@@ -8,6 +8,35 @@ The full list of publications can be found on <a href="https://scholar.google.co
 
 ### 2026
 
+<a href="https://arxiv.org/abs/2603.23509" target="_blank"><b>	
+Internal Safety Collapse in Frontier Large Language Models
+</b></a> <a href="https://github.com/wuyoscar/ISC-Bench" target="_blank"> [Code] </a> <br/>
+Yutao Wu, Xiao Liu, Hanxun Huang, Yige Li, Xiang Zheng, Yifeng Gao, Cong Wang, Bo Li, **Xingjun Ma**, Yu-Gang Jiang
+<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Sydney, Australia, 2026.
+
+<a href="https://arxiv.org/abs/2609.35028" target="_blank"><b>	
+VEX-Bench: Benchmarking Verification Complexity of LLM-Generated Misinformation
+</b></a> <a href="https://github.com/HanxunH/VEX-Bench" target="_blank"> [Code] </a> <br/>
+Hanxun Huang, Yutao Wu, Qizhou Wang, Silvia Montaña-Niño, Yige Li, Xiang Zheng, Elif Buse Doyuran, Phoebe Matich, Xiao Liu, **Xingjun Ma**, Sarah Erfani, Christopher Leckie
+<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Sydney, Australia, 2026.
+
+<a href="" target="_blank"><b>	
+ShadowFPT: Backdooring Federated Prompt Tuning via Shadow Triggers
+</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Kun Zhai, Teng Li, Yunhao Feng, **Xingjun Ma**
+<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Sydney, Australia, 2026.
+
+<a href="https://openreview.net/forum?id=Y02g0k3yX4#discussion" target="_blank"><b>	
+Towards Multi-Human-Value Alignment via Value Localization in LLMs
+</b></a> <a href="" target="_blank"> [Code] </a> <br/>
+Xueqi Ma, Yanbei Jiang, **Xingjun Ma**, James Bailey, Sarah Erfani
+<br/>
+Annual Conference on Neural Information Processing Systems (<b>NeurIPS</b>), Sydney, Australia, 2026.
+
+
 <a href="https://arxiv.org/abs/2604.02947" target="_blank"><b>	
 AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
 </b></a> <a href="https://github.com/Yunhao-Feng/AgentHazard" target="_blank"> [Code] </a> <br/>
