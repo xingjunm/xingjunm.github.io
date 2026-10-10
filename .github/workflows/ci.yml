@@ -22,9 +22,9 @@ jobs:
       - name: Prepare static files
         run: |
           mkdir -p _site
-          cp *.html _site/
+          cp index.html publications.html blog.html alumni.html news.html 404.html favicon.ico _site/
           cp .nojekyll _site/
-          cp -R assets publications blog alumni talks teaching news aboutme _site/
+          cp -R assets _site/
           if [ -f CNAME ]; then cp CNAME _site/; fi
       - uses: actions/upload-pages-artifact@v3
         with:

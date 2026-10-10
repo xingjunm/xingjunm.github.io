@@ -16,9 +16,7 @@ Run `python3 -m http.server 8000` from this directory and open http://localhost:
 - `assets/css/academic.css`: shared responsive styling.
 - `assets/js/academic.js`: optional publication search. All content remains readable without JavaScript.
 
-Old Talks and Teaching URLs redirect to Blog and Alumni.
-
-Navigation and footer are plain HTML in each page; update them together when adding a page. Directory entry points preserve old extensionless URLs.
+Navigation and footer are plain HTML in each page; update them together when adding a page. Use the canonical `.html` filenames for internal links; obsolete redirect pages have been removed.
 
 ## Deployment
 
